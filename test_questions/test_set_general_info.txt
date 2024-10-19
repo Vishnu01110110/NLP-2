@@ -1,0 +1,618 @@
+File: Tax_regulations.txt
+
+Q: Q: What is the effective date of the revised payroll tax regulations issued by the City of Pittsburgh?
+A: A: The revised payroll tax regulations are effective from January 1, 2020.
+
+Q: Q: On what basis is the Payroll Tax for Partners and Self-Employed individuals computed in the City of Pittsburgh?
+A: A: The Payroll Tax for Partners and Self-Employed is computed based on Taxable Distributions from any businesses.
+
+Q: Q: What is the rate of the Payroll Tax levied on employers conducting business within the City of Pittsburgh?
+A: A: The rate of the Payroll Tax levied on employers conducting business within the City of Pittsburgh is fifty-five hundredths of a percent (.55% or .0055) of Payroll Expense.
+
+Q: Q: What is the period allowed for a taxpayer to respond to audit notices under the City Code?
+A: A: A taxpayer has thirty (30) calendar days to respond to audit notices.
+
+Q: Q: What is the maximum fine for failing or refusing to appear before the Treasurer with the Employer’s books for examination as required under the provisions of Title Two of the City Code?
+A: A: The maximum fine is five hundred dollars ($500).
+
+Q: Q: What percentage of the total donation, contribution, and other monetary charges is considered the established price for amusement taxes if admission is obtained through these means at an event not deemed an Exempt Amusement?
+A: A: The established price for amusement purposes of the tax is twenty-five (25%) percent of the total donation, contribution, and other monetary charge.
+
+Q: Q: What types of admission charges are not subject to the amusement tax according to the text?
+A: A: Admission charges to lectures of a scientific, historical, or educational nature, such as continuing education courses, when produced or conducted by nonprofit associations or clubs, are not subject to the tax.
+
+Q: Q: What is the tax rate for amusement activities in Pittsburgh?
+A: A: The tax rate for amusement activities in Pittsburgh is five (5%) percent of admission fees.
+
+Q: Q: Are newspaper reporters, photographers, and radio announcers liable for tax on free admission to events when their presence is solely for the performance of special duties?
+A: A: No, they are not liable for any tax on admission when admitted free solely for the performance of special duties.
+
+Q: Q: Are home builders' shows subject to the Amusement Tax according to the Pittsburgh Code?
+A: A: Yes, admission receipts from home builders' shows are subject to the Amusement Tax as defined in Chapter 241 of the Pittsburgh Code.
+
+Q: Q: What is the maximum penalty for someone who willfully refuses to appear before the Treasurer for required examination under Title Two of the City Code?
+A: A: The maximum penalty is a fine of not more than five hundred dollars ($500) or imprisonment for a term of not more than six months, or both.
+
+Q: Q: Under what condition may the Treasurer sue for recovery of an erroneous refund within five years?
+A: A: The Treasurer may sue within five years if any part of the refund was induced by fraud or misrepresentation of material fact.
+
+Q: Q: What is the deadline for Qualified Managing Entities to register with the Treasurer after becoming qualified in the City?
+A: A: Qualified Managing Entities must register with the Treasurer within sixty (60) days of first becoming a Qualified Managing Entity.
+
+Q: Q: What is the maximum penalty rate imposed per month for an unpaid usage fee according to § 502(a)?
+A: A: The maximum penalty rate imposed per month for an unpaid usage fee is one (1) percent.
+
+Q: Q: What is considered Taxable Valet Parking Services according to the Pittsburgh Code?
+A: A: Taxable Valet Parking Services include any parking service where the rate charged is not lower than the prevailing parking rate for the area or if the parking facility serves multiple establishments or is open when the business establishment is closed, subjecting the transaction to the parking tax.
+
+Q: Q: What is the parking tax rate imposed on transactions as of January 1, 2009?
+A: A: The parking tax rate imposed on transactions as of January 1, 2009, is 37.5%.
+
+Q: Q: For how long must an operator of a parking facility retain books and records related to parking transactions?
+A: A: An operator must retain such records for a period of five years subsequent to the year of the transaction unless permission to destroy the data has been obtained from the Treasurer.
+
+Q: Q: For how long must operators preserve records to verify the correctness of declarations or returns according to the given text?
+A: A: Operators must preserve records for a period of not less than five (5) years from the filing date or due date, whichever is later.
+
+Q: Q: What is the maximum penalty rate that can be added to an unpaid Parking Tax according to the text?
+A: A: The maximum penalty rate that can be added to an unpaid Parking Tax is fifty percent (50%).
+
+Q: Q: Within what time frame must a request for a refund or credit due to overpaid Parking Taxes be made if no report is required?
+A: A: The request for a refund or credit must be made within three (3) years after the due date for payment of the tax or within one (1) year after actual payment of the tax, whichever is later.
+
+Q: Q: What is the tax liability for an employee working in Pittsburgh who earns $12,000 through various part-time jobs in different municipalities without earning $12,000 in any single municipality?
+A: A: The employee is not subject to the Local Services Tax since he did not earn $12,000 in any single municipality, and can file an exemption certificate with both employers to avoid LST deduction.
+
+Q: Q: What is the penalty rate per month for an employer who fails to pay the Local Services Tax by the due date?
+A: A: The penalty rate is 5% for every month or fraction thereof that the tax remains unpaid, capped at 50%.
+
+Q: Q: Under what condition will the Treasurer enter into an installment payment plan for tax collection?
+A: A: The Treasurer will enter into an installment payment plan if the taxpayer requests it in writing and it is deemed in the best interests of the City.
+
+Q: Q: Within how many days must a taxpayer aggrieved by a Treasurer's assessment request a Treasurer's Hearing?
+A: A: A taxpayer must request a Treasurer's Hearing within ninety (90) days after the date of notice of the assessment.
+
+Q: Q: Which institutions are exempt from the Institution and Service Privilege Tax according to the text?
+A: A: Exempt institutions include U.S. government instrumentalities, states or political subdivisions, purely public charities, regulated insurance companies and utilities, voluntary employee's beneficiary associations and qualified pension plans, regulated financial institutions, and organizations exempt under 26 U.S.C. 501 not listed as taxable.
+
+Q: Q: What is the tax rate imposed on annual receipts in the City of Pittsburgh according to the text?
+A: A: The tax rate is six (6) mills on each dollar of annual receipts, equaling $6.00 per $1,000 or 6/10 of 1%.
+
+Q: Q: What is the penalty rate applied per month for a taxpayer failing to make a report and payment as required?
+A: A: The penalty rate is one-half of one percent (0.5%) per month for each month or a fraction of a whole month.
+
+Q: Q: Within what timeframe must a request for a refund or credit be made if no report is required?
+A: A: The request must be made within three (3) years after the due date for payment of the tax or within one (1) year after actual payment of the tax, whichever is later.
+
+==================================================
+
+File: cmu_edu.txt
+
+Q: Q: Who created the first Smiley emoticon at Carnegie Mellon University, and when?
+A: A: Carnegie Mellon research professor Scott Fahlman created the first Smiley emoticon on September 19, 1982.
+
+Q: Q: Who is responsible for appointing the president at Carnegie Mellon University?
+A: A: The Carnegie Mellon Board of Trustees is responsible for appointing the president.
+
+Q: Q: In which year did Geoffrey Hinton receive the Turing Award?
+A: A: Geoffrey Hinton received the Turing Award in 2019.
+
+Q: Q: Who was recognized as a faculty member in both the College of Engineering and Dietrich College of Humanities and Social Sciences in 2021?
+A: A: Baruch Fischhoff was recognized as a faculty member in both the College of Engineering and Dietrich College of Humanities and Social Sciences in 2021.
+
+Q: Q: How many Churchill Scholars has Carnegie Mellon been home to according to the text?
+A: A: Carnegie Mellon has been home to 12 Churchill Scholars.
+
+Q: Q: How many Cambridge Scholars have come from Carnegie Mellon according to the text?
+A: A: According to the text, three Gates Cambridge Scholars have come from Carnegie Mellon.
+
+Q: Q: Which CMU alumnus received an Oscar for Best Adapted Screenplay in 2022, and for what film?
+A: A: Siân Heder, College of Fine Arts 1999, received an Oscar for Best Adapted Screenplay in 2022 for "CODA."
+
+Q: Q: In what year did James Cromwell win an award for Outstanding Supporting Actor in a Miniseries or Movie for his work on "American Horror Story: Asylum"?
+A: A: James Cromwell won the award in 2013.
+
+Q: Q: In what year did "Sesame Street" tie with another program for Outstanding Writing in a Children's Series Daytime Emmy?
+A: A: "Sesame Street" tied in 1994 with "Adventures in Wonderland" for Outstanding Writing in a Children's Series.
+
+Q: Q: Which Carnegie Mellon alumni was awarded an Outstanding Supporting Actor in a Drama Series Emmy in 1984?
+A: A: Bruce Weitz was awarded Outstanding Supporting Actor in a Drama Series in 1984 for "Hill Street Blues."
+
+Q: Q: Which musical produced by Sonia Friedman Productions won the Best Musical award as a producer in 2018?
+A: A: "The Band's Visit" won the Best Musical award as a producer in 2018.
+
+Q: Q: What ranking did Carnegie Mellon University receive for its undergraduate Artificial Intelligence program according to U.S. News & World Report?
+A: A: Carnegie Mellon University's undergraduate Artificial Intelligence program was ranked #1 by U.S. News & World Report.
+
+Q: Q: What is the name of the Carnegie Mellon research professor who created the Smiley emoticon in 1982?
+A: A: The Carnegie Mellon research professor who created the Smiley emoticon in 1982 is Scott Fahlman.
+
+Q: Q: What grant amount did the RKM Foundation provide to support projects at Carnegie Mellon University?
+A: A: The RKM Foundation provided a $150M grant to support projects at Carnegie Mellon University.
+
+Q: Q: Who can be contacted for more information or assistance regarding sexual misconduct at Carnegie Mellon University?
+A: A: Contact the Office of Title IX Initiatives or University Police at 412-268-2323 in an emergency.
+
+Q: Q: What service does the Center for Business Engagement at Carnegie Mellon University offer to industry partners?
+A: A: The Center for Business Engagement at Carnegie Mellon University guides and connects industry partners to the right people at CMU to achieve their goals by offering customized collaboration with CMU faculty and students.
+
+Q: Q: Where can Carnegie Mellon University students and faculty members work with scholars outside their schools and colleges?
+A: A: Carnegie Mellon's unique culture allows students and faculty to work with scholars outside their schools and colleges through interdisciplinary programs.
+
+Q: Q: What is the Osher Lifelong Learning Institute (OLLI) at Carnegie Mellon University?
+A: A: The Osher Lifelong Learning Institute (OLLI) at Carnegie Mellon University is a non-credit program for adults in the Pittsburgh area, supported by CMU since 1992, offering courses selected by a curriculum committee with member suggestions and led by dedicated volunteers mostly during daylight hours.
+
+Q: Q: Who pioneered the creation of the first Girl Scout badge for negotiation in collaboration with the Girl Scouts?
+A: A: Carnegie Mellon professor Linda Babcock pioneered the creation of the first Girl Scout badge for negotiation.
+
+Q: Q: What is the Kiltie Band at Carnegie Mellon University known for?
+A: A: The Kiltie Band is known as the "Band Without Pants," a kilt-clad student marching band that entertains home football games with songs, chants, cheers, and a quirky sense of humor since 1922.
+
+Q: Q: How far is Pittsburgh International Airport from Carnegie Mellon University's campus by car?
+A: A: The airport is approximately a 45-minute drive to campus.
+
+==================================================
+
+File: pittsburgh_history_wiki.txt
+
+Q: Q: What significant action did George Washington take at the Forks of the Ohio in November 1753?
+A: A: George Washington arrived at the Forks of the Ohio on November 25, 1753, to view the rivers and land for a potential fort, and delivered a letter from Governor Dinwiddie of Virginia warning the French to withdraw.
+
+Q: Q: When did John Forbes occupy the burned Fort Duquesne and order the construction of Fort Pitt?
+A: A: John Forbes occupied the burned Fort Duquesne and ordered the construction of Fort Pitt on November 25, 1758.
+
+Q: Q: What was the cause of the great fire in Pittsburgh on April 10, 1845, and how many buildings were destroyed?
+A: A: The great fire in Pittsburgh on April 10, 1845, was due to the lack of a water supply with dependable pressure, destroying over a thousand buildings.
+
+Q: Q: What was the significance of Pittsburgh during the Prohibition era between 1920 and 1933?
+A: A: During the Prohibition era, Pittsburgh was a hotbed of bootlegging and illicit alcohol consumption, with the Pittsburgh crime family controlling significant portions of the illegal alcohol trade.
+
+Q: Q: What was the largest buyout in world history at the time, involving a top Fortune 500 company, and when did it occur?
+A: A: The largest buyout in world history at the time was the merger of Gulf Oil in 1985.
+
+Q: Q: Since when have nearly 3,000 new hotel rooms opened in Pittsburgh, boosting tourism?
+A: A: Nearly 3,000 new hotel rooms have opened in Pittsburgh since 2004.
+
+==================================================
+
+File: cmu_britannica.txt
+
+Q: Q: In what year did Carnegie Mellon University result from the merger of the Carnegie Institute of Technology and the Mellon Institute?
+A: A: Carnegie Mellon University resulted from the merger in 1967.
+
+==================================================
+
+File: visitpittsburgh.txt
+
+Q: Q: What is a unique feature of the Gulf Tower in Pittsburgh related to weather?
+A: A: The Gulf Tower in Pittsburgh has a pyramid at the top that lights up in different colors at night to indicate weather conditions, and if it's black and gold, it signifies a win by one of the city's pro sports teams.
+
+Q: Q: What are some free things to do in Pittsburgh according to the text?
+A: A: Some free things to do in Pittsburgh include touring the Bicycle Heaven museum, experiencing the Frick Art & Historical Center, and viewing the city from Mt. Washington.
+
+Q: Q: Where is the largest collection of Christian relics outside of the Vatican located?
+A: A: The largest collection of Christian relics outside of the Vatican is located at St. Anthony's Chapel.
+
+Q: Q: What kind of unique shopping opportunities can you find in Pittsburgh's Strip District?
+A: A: In Pittsburgh's Strip District, you can find a hub for shopping for food, spirits, coffee, and Pittsburgh sports gear.
+
+Q: Q: Which stadium is known for hosting the Pittsburgh Pirates and offers tours that include access to the field?
+A: A: PNC Park hosts the Pittsburgh Pirates and offers stadium tours that take visitors onto the field.
+
+Q: Q: When will the Pittsburgh Independent Film Festival be held in 2024?
+A: A: The Pittsburgh Independent Film Festival will be held from June 28-30, 2024.
+
+Q: Q: Where can you attend the RV Fall Show in Pittsburgh?
+A: A: The RV Fall Show can be attended at the David L. Lawrence Convention Center.
+
+Q: Q: When will the 2024 Highmark International StrEAT Festival take place?
+A: A: The 2024 Highmark International StrEAT Festival will take place on October 19-20, 2024.
+
+Q: Q: When is the Handmade Arcade Holiday Market taking place in 2024?
+A: A: The Handmade Arcade Holiday Market is taking place on December 6 (Happy Hour) and December 7 (Main Event), 2024.
+
+Q: Q: On which date does Il Divo - A New Day Holiday Tour take place in 2023?
+A: A: Il Divo - A New Day Holiday Tour takes place on December 10, 2023.
+
+Q: Q: What are the dates for Pittsburgh Restaurant Week in Summer 2024?
+A: A: Pittsburgh Restaurant Week in Summer 2024 takes place from August 12-18.
+
+Q: Q: When will the Pittsburgh Vegan Expo & Festival take place in 2024?
+A: A: The Pittsburgh Vegan Expo & Festival will take place on August 10, 2024, and September 29, 2024.
+
+Q: Q: What is the status of the Pittsburgh Black Music Festival in 2024?
+A: A: The Pittsburgh Black Music Festival has been canceled for 2024.
+
+Q: Q: What 2024 event highlights Pittsburgh's most popular breweries?
+A: A: The event is the Insider's Guide to Three Rivers Beer Week 2024.
+
+Q: Q: How many distilleries are currently located in the state of Pennsylvania according to the text?
+A: A: There are around 70 distilleries in the state of Pennsylvania.
+
+Q: Q: What is Community Supported Agriculture (CSA) in the Pittsburgh area?
+A: A: Community Supported Agriculture (CSA) in the Pittsburgh area is a formal agreement between residents and local farmers to ensure a seasonal supply of farm-fresh products, providing a profitable outlet for farmers.
+
+Q: Q: What type of art does The Maridon Museum specifically focus on?
+A: A: The Maridon Museum has a specific focus on Chinese and Japanese art and culture.
+
+Q: Q: What is the main purpose of the Pittsburgh Black Music Festival?
+A: A: The main purpose of the Pittsburgh Black Music Festival is to celebrate the history and heritage of Black Music in America.
+
+Q: Q: What is the name of the mural visible on Penn Ave in the Pittsburgh Strip District?
+A: A: The mural is called The Strip Mural by artists Carley Parris and Shannon Pultz.
+
+Q: Q: What service does Medico provide in the Pittsburgh area?
+A: A: Medico provides concierge medical services offering on-location, short-term care for temporary workers, visitors, or dignitaries in the Pittsburgh area.
+
+Q: Q: Which magazine named Mt. Washington's view one of the top 10 most beautiful views in the country?
+A: A: USA Weekend magazine.
+
+Q: Q: What is the size of the David L. Lawrence Convention Center in Pittsburgh?
+A: A: The David L. Lawrence Convention Center is 1.5 million square feet.
+
+Q: Q: During which period are discounts in the Show Your Badge Program in Pittsburgh honored?
+A: A: Discounts in the Show Your Badge Program are honored from January 1 to December 31, 2024.
+
+Q: Q: What is the date for the Pittsburgh Chinese Cultural Festival at Mellon Park in 2024?
+A: A: The Pittsburgh Chinese Cultural Festival is on September 21, 2024.
+
+Q: Q: On what dates will the Fort Ligonier Days festival take place in 2024?
+A: A: Fort Ligonier Days will take place from October 11-13, 2024.
+
+Q: Q: When is the Pittsburgh Irish Festival scheduled to take place in 2024?
+A: A: The Pittsburgh Irish Festival is scheduled for September 6-8, 2024.
+
+Q: Q: Where and when will The Original Pittsburgh Taco Festival be held in 2024?
+A: A: The Original Pittsburgh Taco Festival will be held at The Stacks at 3 Crossings, located at 2875 Railroad Street, on September 14, 2024.
+
+Q: Q: What is the song played during the fourth quarter when the Steelers need a big stop at Acrisure Stadium?
+A: A: The song "Renegade" by Styx is played during the fourth quarter when the Steelers need a big stop.
+
+Q: Q: What event is returning to Acrisure Stadium on September 14, 2024?
+A: A: The Backyard Brawl, a historic college football rivalry between the University of Pittsburgh and West Virginia University, is returning to Acrisure Stadium on September 14, 2024.
+
+Q: Q: What unique feature does the 2024 Riverhounds home kit have?
+A: A: The 2024 Riverhounds home kit, called the Three Rivers, is emblazoned with an iconic gold bridge design.
+
+Q: Q: What is a popular local favorite dive bar near PPG Paints Arena known for inexpensive food, drink selection, and free parking?
+A: A: Shale’s Café is the popular local favorite dive bar near PPG Paints Arena known for inexpensive food, drink selection, and free parking.
+
+Q: Q: Which incline in Pittsburgh accepts credit cards for ticket purchases?
+A: A: The Monongahela Incline accepts credit cards for ticket purchases.
+
+Q: Q: What is featured at the Holiday KidsPlay Selfie Garden, and where is it located?
+A: A: The Holiday KidsPlay Selfie Garden features colorful backdrops and standees of popular characters from Fred Rogers Productions’ children’s shows and is located at the Heinz Hall Courtyard.
+
+Q: Q: What event at Phipps Botanical Gardens is scheduled to open on October 5, 2024, in Pittsburgh?
+A: A: Phipps Botanical Gardens will open their Fall Flower Show: Rhythm and Blooms on October 5, 2024.
+
+Q: Q: What is the name of Pennsylvania's first ginger beer brewery?
+A: A: The name of Pennsylvania's first ginger beer brewery is Jackworth Ginger Beer.
+
+Q: Q: What does Jackworth Smith's flagship ginger beer product use for its ingredients?
+A: A: Jackworth Smith's flagship product uses organic ginger from Peru, cane sugar, lemon, and water as its ingredients.
+
+Q: Q: What protocol does VisitPittsburgh use for e-commerce transactions on their website?
+A: A: VisitPittsburgh uses the Secure Sockets Layer protocol for all e-commerce transactions.
+
+Q: Q: How long does VisitPittsburgh take to fully implement requests to delete/deactivate your PII?
+A: A: VisitPittsburgh requires at least thirty (30) days to fully implement such requests.
+
+==================================================
+
+File: pittsburgh_wiki.txt
+
+Q: Q: In what year was Pittsburgh incorporated as a borough?
+A: A: Pittsburgh was incorporated as a borough on April 22, 1794.
+
+Q: Q: What effect did the 1850 Fugitive Slave Act have on Allegheny County's black population?
+A: A: The black population in Allegheny County dropped from 3,431 to 2,725 as people headed to more safety in Canada after the 1850 Fugitive Slave Act was passed.
+
+Q: Q: What is the warmest month of the year in Pittsburgh, and what is its 24-hour average temperature?
+A: A: The warmest month of the year in Pittsburgh is July, with a 24-hour average temperature of 73.2°F (22.9°C).
+
+Q: Q: In what year did ALCOSAN propose a $2 billion upgrade to the sewage system, which was later approved by the EPA?
+A: A: ALCOSAN proposed a $2 billion upgrade to the sewage system in 2017, and it was approved by the EPA in 2019.
+
+Q: Q: What was the proposed purpose of the auditorium with a retractable roof in 1953 by the Allegheny Conference on Community Redevelopment?
+A: A: It was proposed to house the Pittsburgh Civic Light Opera.
+
+Q: Q: Which museum in Pittsburgh is located six miles from downtown?
+A: A: The eclectic Bayernhof Music Museum is located six miles from downtown Pittsburgh.
+
+Q: Q: What are the official city colors that all of Pittsburgh's major professional sports teams share?
+A: A: The official city colors shared by Pittsburgh's major professional sports teams are black and gold.
+
+Q: Q: Who was drafted as the first African American by an NBA team and hailed from Duquesne University?
+A: A: Chuck Cooper was the first African American drafted by an NBA team from Duquesne University.
+
+Q: Q: How much of the $6 million increase to the Pittsburgh police budget in 2023 is expected to be allocated to the Stop the Violence trust fund?
+A: A: About 6% of the $6 million increase to the police budget is expected to be allocated to the Stop the Violence trust fund.
+
+Q: Q: Which companies provide water service to Pittsburgh?
+A: A: Water service in Pittsburgh is provided by the Pittsburgh Water and Sewer Authority and Pennsylvania American Water.
+
+Q: Q: What express line does the light rail system in Pittsburgh use for travel through Overbrook?
+A: A: The express line using railways through Overbrook is part of the light rail system in Pittsburgh.
+
+==================================================
+
+File: pittsburgh_britannica.txt
+
+Q: Q: In what year did Pittsburgh become the first American city to generate electricity by nuclear power?
+A: A: Pittsburgh became the first American city to generate electricity by nuclear power in 1957.
+
+==================================================
+
+File: pittsburgh_pa.txt
+
+Q: Q: When is the new City of Pittsburgh website scheduled to launch?
+A: A: The new City of Pittsburgh website is scheduled to launch on October 22, 2024.
+
+Q: Q: What organization is tracking and reporting daily COVID-19 tests and confirmed cases for the City of Pittsburgh?
+A: A: The Allegheny County Health Department is tracking and reporting daily COVID-19 tests and confirmed cases for the City of Pittsburgh.
+
+Q: Q: How much grant did Welcoming Pittsburgh secure for a COVID-19 Cash Assistance Program?
+A: A: Welcoming Pittsburgh secured a $500,000 grant for a COVID-19 Cash Assistance Program.
+
+Q: Q: How much grant money did Welcoming Pittsburgh secure for the COVID-19 Cash Assistance Program to serve vulnerable immigrant communities?
+A: A: Welcoming Pittsburgh secured a $500,000 grant for the COVID-19 Cash Assistance Program to serve vulnerable immigrant communities.
+
+Q: Q: What organization provides free emotional support through caring listeners according to the text?
+A: A: 7 Cups connects you to caring listeners for free emotional support.
+
+Q: Q: When is the new City of Pittsburgh website set to launch?
+A: A: The new City of Pittsburgh website is set to launch on October 22, 2024.
+
+Q: Q: When is the new City of Pittsburgh website scheduled to launch?
+A: A: The new City of Pittsburgh website is scheduled to launch on October 22, 2024.
+
+Q: Q: When is the new City of Pittsburgh website scheduled to be launched?
+A: A: The new City of Pittsburgh website is scheduled to be launched on October 22, 2024.
+
+Q: Q: When is the new City of Pittsburgh website scheduled to launch?
+A: A: The new City of Pittsburgh website is scheduled to launch on October 22, 2024.
+
+Q: Q: When is the new City of Pittsburgh website scheduled to launch?
+A: A: The new City of Pittsburgh website is scheduled to launch on October 22, 2024.
+
+Q: Q: When is the new City of Pittsburgh website scheduled to launch?
+A: A: The new City of Pittsburgh website is scheduled to launch on October 22, 2024.
+
+Q: Q: When is the new City of Pittsburgh website expected to launch?
+A: A: The new City of Pittsburgh website is expected to launch on October 22, 2024.
+
+Q: Q: When is the new City of Pittsburgh website scheduled to be launched?
+A: A: The new City of Pittsburgh website is scheduled to be launched on October 22, 2024.
+
+Q: Q: When is the new City of Pittsburgh website scheduled to launch?
+A: A: The new City of Pittsburgh website is scheduled to launch on October 22, 2024.
+
+Q: Q: When is the new City of Pittsburgh website scheduled to launch?
+A: A: The new City of Pittsburgh website is scheduled to launch on October 22, 2024.
+
+Q: Q: When is the new City of Pittsburgh website scheduled to launch?
+A: A: The new City of Pittsburgh website is scheduled to launch on October 22, 2024.
+
+Q: Q: What does the Plow Tracker v 2.0 display regarding Public Works vehicles?
+A: A: The Plow Tracker v 2.0 displays the history trail of Public Works vehicles conducting deicing and/or anti-icing and plowing operations.
+
+Q: Q: How many business days does the City have to respond to a Right to Know request before it is deemed denied?
+A: A: The City has five business days to respond to a Right to Know request before it is deemed denied.
+
+Q: Q: When is the new City of Pittsburgh website scheduled to launch?
+A: A: The new City of Pittsburgh website is scheduled to launch on October 22, 2024.
+
+Q: Q: When is the new City of Pittsburgh website scheduled to launch?
+A: A: The new City of Pittsburgh website is scheduled to launch on October 22, 2024.
+
+Q: Q: Who is responsible for overseeing federal labor laws and regulations related to construction and improvements in Pittsburgh's Community Development Block Grants program?
+A: A: The Community Development Administration Department is responsible, with Kelly Russell as the contact person.
+
+Q: Q: In what years was the Phipps Fall Flower show hosted at the City-County Building in Pittsburgh?
+A: A: The Phipps Fall Flower show was hosted at the City-County Building from 1972 to 1975.
+
+Q: Q: What is the total Earned Income Tax rate for residents of the City of Pittsburgh, and how is it divided between the city and the school district?
+A: A: The total Earned Income Tax rate for residents of the City of Pittsburgh is 3%, divided as 1% for the city and 2% for the school district.
+
+Q: Q: How much is the Local Services Tax that can be withheld from a particular employee by all employers?
+A: A: No more than $52 in Local Services Tax can be withheld by all employers from a particular employee.
+
+Q: Q: What is the tax rate for services in the City of Pittsburgh under the Institution and Service Privilege Tax?
+A: A: The tax rate is six mills on each dollar of annual gross receipts.
+
+Q: Q: When is the new City of Pittsburgh website set to launch?
+A: A: The new City of Pittsburgh website is set to launch on October 22, 2024.
+
+Q: Q: When is the new City of Pittsburgh website scheduled to launch?
+A: A: The new City of Pittsburgh website is scheduled to launch on Oct 22, 2024.
+
+Q: Q: What is the URL for the announcements from the Pittsburgh mayor's office?
+A: A: The URL for the announcements is https://pittsburghpa.gov/inc/announcement.html?ta=mayor.
+
+Q: Q: When is the new City of Pittsburgh website launching?
+A: A: The new City of Pittsburgh website is launching on October 22, 2024.
+
+Q: Q: When is the launch date for the new City of Pittsburgh website?
+A: A: The new City of Pittsburgh website is launching on October 22, 2024.
+
+Q: Q: When is the new City of Pittsburgh website scheduled to launch?
+A: A: The new City of Pittsburgh website is scheduled to launch on October 22, 2024.
+
+Q: Q: When is the new City of Pittsburgh website scheduled to launch?
+A: A: The new City of Pittsburgh website is scheduled to launch on October 22, 2024.
+
+Q: Q: When is the new City of Pittsburgh website scheduled to launch?
+A: A: The new City of Pittsburgh website is scheduled to launch on October 22, 2024.
+
+Q: Q: When is the new City of Pittsburgh website scheduled to launch?
+A: A: The new City of Pittsburgh website is scheduled to launch on October 22, 2024.
+
+==================================================
+
+File: Operating_budget.txt
+
+Q: Q: Who is the Director of Finance for the City of Pittsburgh as referenced in the provided text?
+A: A: The Director of Finance for the City of Pittsburgh is Jennifer Gula.
+
+Q: Q: What is the total amount appropriated in the general fund for the City of Pittsburgh to pay expenses during the 2024 fiscal year?
+A: A: The total amount appropriated in the general fund for the City of Pittsburgh's 2024 fiscal year expenses is $684,677,414.
+
+Q: Q: What public hearing date was associated with the approval of the use plan for the Food Justice Fund allocation in Pittsburgh?
+A: A: The public hearing associated with the approval of the use plan for the Food Justice Fund allocation in Pittsburgh was held on August 1, 2023.
+
+Q: Q: Which department acts as an umbrella organization overseeing the Bureaus of Police, Fire, Emergency Medical Services, and Animal Care and Control in the City of Pittsburgh?
+A: A: The Department of Public Safety Bureau of Administration acts as an umbrella organization overseeing these bureaus.
+
+Q: Q: What is the purpose of the Operating Budget for the City of Pittsburgh?
+A: A: The Operating Budget functions as the financial plan for the current fiscal year, outlining planned expenditures and projected revenues for delivering services within the City.
+
+Q: Q: What is the additional millage added to the real estate tax rate for the improvement of Pittsburgh's parks, and when was it approved by voters?
+A: A: The additional millage added to the real estate tax rate for the improvement of Pittsburgh's parks is 0.50 mills, and it was approved by voters in 2019.
+
+Q: Q: When was the last year the City of Pittsburgh failed to approve a budget before December 31st?
+A: A: The last time a budget was not approved before December 31st was 1931.
+
+Q: Q: What is the anticipated Real Estate Tax revenue for the City of Pittsburgh in the fiscal year 2024?
+A: A: The anticipated Real Estate Tax revenue for the City of Pittsburgh in the fiscal year 2024 is $151,837,378.
+
+Q: Q: What is the projected total revenue for the City of Pittsburgh in the fiscal year 2024?
+A: A: The projected total revenue for the City of Pittsburgh in the fiscal year 2024 is $714,214,923.
+
+Q: Q: What percentage of the 2024 Charges for Services revenue is derived from fees charged by the Bureau of Emergency Medical Services in Pittsburgh?
+A: A: Fees charged by the Bureau of Emergency Medical Services comprise 40.4 percent of the 2024 Charges for Services revenue.
+
+Q: Q: What is the budgeted total for Regional Asset District tax relief in 2024, and what percentage increase does this represent over the prior year?
+A: A: The budgeted total for Regional Asset District tax relief in 2024 is $25.8 million, representing a 3.3 percent increase over the prior year.
+
+Q: Q: What percentage of the City of Pittsburgh's 2024 budget is made up of the four major tax revenues?
+A: A: The four major tax revenues comprise 58% of the City of Pittsburgh's 2024 budget.
+
+Q: Q: What is the total amount of expenditures for the City of Pittsburgh's fiscal year 2024?
+A: A: The total amount of expenditures for fiscal year 2024 is $684,553,037.
+
+Q: Q: What is the total budgeted expenditure for Public Works in the City of Pittsburgh for fiscal year 2024?
+A: A: The total budgeted expenditure for Public Works in the City of Pittsburgh for fiscal year 2024 is $74,563,534.
+
+Q: Q: How many council districts and corresponding members are there in the City Council of Pittsburgh?
+A: A: There are nine council districts and corresponding members in the City Council of Pittsburgh.
+
+Q: Q: How much is the budget for Council Staff in the City of Pittsburgh for the fiscal year 2024?
+A: A: The budget for Council Staff in the City of Pittsburgh for the fiscal year 2024 is $1,619,997.
+
+Q: Q: What is the total budget for the Clerk Division in 2024?
+A: A: The total budget for the Clerk Division in 2024 is $534,437.
+
+Q: Q: How much grant funding was secured by the Grants team for citywide projects in 2023?
+A: A: The Grants team secured over $33 million in grant funding for citywide projects in 2023.
+
+Q: Q: What key improvement did the Department of Innovation & Performance achieve for City employees in 2023?
+A: A: The Department of Innovation & Performance achieved a 95% success rate in providing key computing devices and information systems access for new City employees on their first day of work.
+
+Q: Q: What is the budgeted salary for the Assistant Director of IT Operations in the City of Pittsburgh's Department of Innovation & Performance for fiscal year 2024?
+A: A: The budgeted salary for the Assistant Director of IT Operations for fiscal year 2024 is $107,490.
+
+Q: Q: What accomplishment related to Fair Housing Month did the Commission achieve in 2023?
+A: A: The Commission hosted a hybrid Housing Summit for Fair Housing Month, which provided education and services connections to the community.
+
+Q: Q: What is the main responsibility of the Finance Department of the City of Pittsburgh as described in the text?
+A: A: The main responsibility of the Finance Department of the City of Pittsburgh is to provide fiscal leadership focused on long-term financial health, and to manage the collection, deposit, and investment of all funds received by the City.
+
+Q: Q: How many Public Sales of City-owned property were completed in 2023 as of October 31?
+A: A: 96 Public Sales of City-owned property were completed in 2023 as of October 31.
+
+Q: Q: How many members comprise the Ethics Hearing Board?
+A: A: The Ethics Hearing Board comprises nine members.
+
+Q: Q: What was one of the accomplishments of the Office of Municipal Investigations in 2023 related to addressing gaps in policy?
+A: A: In 2023, the Office of Municipal Investigations identified gaps in policy and made recommendations to correct them.
+
+Q: Q: How many City of Pittsburgh youth were employed in the Summer Learn and Earn program by the Pittsburgh Partnership?
+A: A: The Pittsburgh Partnership employed 914 City of Pittsburgh youth in the Summer Learn and Earn program.
+
+Q: Q: What is the total budget for full-time permanent positions in the City of Pittsburgh's Department of Human Resources & Civil Service for the fiscal year 2024?
+A: A: The total budget for full-time permanent positions is $2,659,328 for the fiscal year 2024.
+
+Q: Q: What new working group did the Zoning & Development Review establish in 2023?
+A: A: The Zoning & Development Review established the City's first interdepartmental Vacant Property Working Group in 2023.
+
+Q: Q: What new service was launched by the Department of Permits, Licenses, & Inspections in 2023 for condemned properties?
+A: A: In 2023, the Department of Permits, Licenses, & Inspections launched EngagePGH for condemned properties and re-evaluated over 1,600 condemned properties.
+
+Q: Q: What is the responsibility of the Public Safety Technology Manager in Pittsburgh?
+A: A: The Public Safety Technology Manager ensures that critical public safety technology and systems function efficiently and effectively on a 24/7 basis, including citywide security camera deployment, the gunshot detection system, radio communications, and Public Safety-specific software.
+
+Q: Q: What new leadership appointment did the City of Pittsburgh make in 2023?
+A: A: The City of Pittsburgh swore in the first African American female EMS Chief in 2023.
+
+Q: Q: How many new River Rescue Divers completed intensive training in 2023 according to the Bureau of Emergency Medical Services summary?
+A: A: Six new River Rescue Divers successfully completed the training.
+
+Q: Q: What is the hourly rate for a Police Sergeant in 2024 according to the Bureau of Police budget?
+A: A: The hourly rate for a Police Sergeant in 2024 is $48.4075.
+
+Q: Q: How many emergency medical calls does the Pittsburgh Bureau of Fire respond to each year?
+A: A: The Fire Bureau responds to approximately 20,000 emergency medical calls each year.
+
+Q: Q: What is the salary budget for the Fire Chief in 2024 for the City of Pittsburgh's Bureau of Fire?
+A: A: The salary budget for the Fire Chief in 2024 is $141,397.
+
+Q: Q: What was one of the 2023 accomplishments of the Bureau of Animal Care and Control related to wildlife education?
+A: A: The Bureau worked with Human Action Pittsburgh to create informational PSAs about wildlife issues and humane solutions.
+
+Q: Q: How many Narcan doses have been distributed by the City in collaboration with the Allegheny County Health Department?
+A: A: Over 1,000 Narcan doses have been distributed.
+
+Q: Q: By how much did the number of Clean and Liens completed on privately owned lots increase in 2023 compared to 2022?
+A: A: The number of Clean and Liens completed on privately owned lots increased from 5 in 2022 to 86 in 2023.
+
+Q: Q: What is the projected salary for the Superintendent in the Bureau of Facilities for 2024?
+A: A: The projected salary for the Superintendent in the Bureau of Facilities for 2024 is $95,697.
+
+Q: Q: What division of the Department of Parks and Recreation operates 18 City of Pittsburgh pools and 9 spray parks during the summer months?
+A: A: The aquatics division is responsible for operating 18 City of Pittsburgh pools and 9 spray parks during the summer months.
+
+Q: Q: When is the renovation of the Oliver Bath House scheduled to be completed?
+A: A: The renovation of the Oliver Bath House is scheduled to be completed in the fall of 2024.
+
+Q: Q: How many signalized intersections are addressed by the Department of Mobility and Infrastructure in Pittsburgh?
+A: A: The Department of Mobility and Infrastructure in Pittsburgh addresses 660 signalized intersections.
+
+Q: Q: By what percentage did the 2024 expenditure increase compared to the 2023 budget for the Department of Mobility & Infrastructure?
+A: A: The 2024 expenditure increased by 11.4% compared to the 2023 budget for the Department of Mobility & Infrastructure.
+
+Q: Q: How many full investigations did the Citizen Police Review Board order in 2023?
+A: A: The Citizen Police Review Board ordered 24 full investigations in 2023.
+
+Q: Q: What is the projected ending balance for the HUD Fair Housing Program Trust Fund for the fiscal year 2024?
+A: A: The projected ending balance for the HUD Fair Housing Program Trust Fund for the fiscal year 2024 is $281,392.
+
+Q: Q: What is the budget for Health Insurance under Personnel-Employee Benefits for the Three Taxing Bodies Trust Fund in 2024, and how does it compare to 2023?
+A: A: The budget for Health Insurance under Personnel-Employee Benefits for the Three Taxing Bodies Trust Fund in 2024 is $55,259, which shows a decrease of $67,003 from 2023.
+
+Q: Q: What percentage of the Bureau of Police's budget was transferred to the Stop the Violence Fund in 2022, and what is the expected percentage by 2026?
+A: A: In 2022, 6% of the Bureau of Police's budget was transferred to the Stop the Violence Fund, and this percentage is expected to increase to 10% by 2026.
+
+Q: Q: How much money is authorized to be transferred from the Parks Trust Fund to a separate capital fund?
+A: A: $4,476,401 is authorized to be transferred from the Parks Trust Fund to a separate capital fund.
+
+Q: Q: What is the projected ending balance for the Solid Waste Trust Fund for fiscal year 2024?
+A: A: The projected ending balance for the Solid Waste Trust Fund for fiscal year 2024 is $(170,836).
+
+Q: Q: What is the projected ending balance for the Schenley Park Rink Trust Fund for Fiscal Year 2024?
+A: A: The projected ending balance for the Schenley Park Rink Trust Fund for Fiscal Year 2024 is $718,971.
+
+Q: Q: How much was the City of Pittsburgh awarded in new grants in 2023?
+A: A: The City of Pittsburgh was awarded $31,823,429 in new grants in 2023.
+
+Q: Q: How much was awarded for the digitization of Historic Council Records by the National Historical Publications and Museum Commission, and what is the remaining balance?
+A: A: The grant awarded is $133,934, and the remaining balance is $9,679.
+
+Q: Q: How much was awarded for the Environmental Protection Diesel Vehicle Replacement grant?
+A: A: The Environmental Protection Diesel Vehicle Replacement grant was awarded $1,345,000.
+
+Q: Q: What is the total anticipated debt service for the 2024 issuance, inclusive of a 1% closing cost, scheduled for September 1, 2024?
+A: A: The total debt service for the 2024 issuance anticipated on September 1, 2024, is $1,466,500.00.
+
+==================================================
+

@@ -1,0 +1,721 @@
+File: penguins.txt
+
+Q: Q: What was the final score of the Penguins versus Canadiens game on 10.14.24?
+A: A: The final score was Penguins 6, Canadiens 3.
+
+Q: Q: Which player scored a hat trick against the Buffalo Sabres that was highlighted as a must-watch feature?
+A: A: Jesse Puljujarvi scored a hat trick against the Buffalo Sabres.
+
+Q: Q: Which milestone did Evgeni Malkin achieve on Thursday in Detroit?
+A: A: Evgeni Malkin became the 34th player in NHL history to record 800 assists.
+
+Q: Q: How many assists has Malkin achieved as mentioned in the text?
+A: A: Malkin has achieved 800 assists.
+
+Q: Q: How many career points did Evgeni Malkin reach in the game against the Toronto Maple Leafs?
+A: A: Evgeni Malkin reached his 1,300th career point.
+
+Q: Q: What exclusive item is included in the ticket package for the Pittsburgh Penguins' Margaritaville Night on March 30, 2025?
+A: A: The exclusive item is a straw hat.
+
+Q: Q: What should fans who purchased tickets through ticketmaster.com do for game entry at PPG Paints Arena?
+A: A: Fans who purchased tickets through ticketmaster.com are encouraged to download the Ticketmaster app for game entry at PPG Paints Arena.
+
+Q: Q: Who scored an empty-net goal against the Montreal Canadiens on October 15, 2024?
+A: A: Evgeni Malkin scored an empty-net goal against the Montreal Canadiens on October 15, 2024.
+
+Q: Q: On what date did Lars Eller score a goal against Samuel Montembeault to make it 0 - 1?
+A: A: Lars Eller scored a goal against Samuel Montembeault to make it 0 - 1 on October 15, 2024.
+
+Q: Q: Who scored a power play goal against Anthony Stolarz in the game between the Penguins and the Maple Leafs on October 12, 2024?
+A: A: Kris Letang scored a power play goal against Anthony Stolarz.
+
+Q: Q: When did Sidney Crosby deliver season tickets to season ticket holders?
+A: A: Sidney Crosby delivered season tickets to season ticket holders on September 17, 2024.
+
+Q: Q: How many trees were planted as a result of Penguins home goals scored during the 2022.23 and 2023.24 seasons?
+A: A: 273 trees were planted thanks to all of the Penguins home goals scored in the 2022.23 and 2023.24 seasons.
+
+Q: Q: What is the basis for processing Personal Information for marketing and informational updates?
+A: A: The processing of Personal Information for marketing and informational updates is based on consent or on legitimate interests.
+
+Q: Q: How can users opt out of receiving personalized advertisements from advertisers or advertising networks that participate in the Network Advertising Initiative or the Digital Advertising Alliance?
+A: A: Users can opt-out of receiving personalized advertisements by visiting the opt-out options of each organization participating in the Network Advertising Initiative or the Digital Advertising Alliance's Self-Regulatory Principles for Online Behavioral Advertising.
+
+Q: Q: What rights do individuals under the General Data Protection Regulation (GDPR) have regarding their Personal Information processed by the Penguin Parties?
+A: A: Individuals have the right to request access, rectification, erasure, restriction of processing, object to processing, and data portability of their Personal Information.
+
+Q: Q: At what age is a person allowed to provide User Content without parental or legal guardian permission according to the text?
+A: A: A person must be at least the age of majority in their jurisdiction of residence to provide User Content without parental or legal guardian permission.
+
+Q: Q: What must you do upon the termination of your access to the NHL Services?
+A: A: Upon termination, you must cease all access to and use of the Services, including any of the NHL Content.
+
+Q: Q: What initial process must be followed before initiating arbitration according to the terms described?
+A: A: Compliance with the "Mandatory Informal Pre-Dispute Resolution Process" is required before initiating arbitration.
+
+Q: Q: How must a party initiate arbitration against the NHL?
+A: A: A party must initiate arbitration against the NHL by serving the demand for arbitration via email to [email protected].
+
+Q: Q: Who is responsible for the fulfillment of orders and shipping products on NHL Shop and NHL Auctions?
+A: A: Fanatics Retail Group North, LLC and its affiliates are responsible for the fulfillment of orders and shipping products on NHL Shop and NHL Auctions.
+
+Q: Q: What act does the Services comply with when collecting personal information from children under 13?
+A: A: The Services comply with the Children's Online Privacy Protection Act ("COPPA").
+
+Q: Q: When was the NHL's Cookie Policy last updated and effective?
+A: A: The NHL's Cookie Policy was last updated and effective on September 22, 2023.
+
+Q: Q: How can you control the use of Cookies on NHL sites?
+A: A: You can control the use of Cookies through privacy settings or controls on your device or browser, and by using the "Cookie Settings" tool available on applicable sites.
+
+==================================================
+
+File: steelers.txt
+
+Q: Q: What was the final score of the Steelers' Week 6 game against the Las Vegas Raiders?
+A: A: The Steelers won 32-13 against the Raiders in Week 6.
+
+Q: Q: Who are the players featured in the October 9th media availability?
+A: A: Donte Jackson, Payton Wilson, and Jeremiah Moon spoke to the media on October 9.
+
+Q: Q: What was the result of the Pittsburgh Steelers' Week 6 game against the Las Vegas Raiders?
+A: A: The Pittsburgh Steelers defeated the Las Vegas Raiders 32-13 in Week 6.
+
+Q: Q: What was the outcome of the Steelers' Week 6 game against the Raiders?
+A: A: The Steelers won 32-13 against the Raiders in Week 6.
+
+Q: Q: Who intercepted an overthrown pass attempt by Raiders QB Aidan O'Connell?
+A: A: CB Donte Jackson intercepted an overthrown pass attempt by Raiders QB Aidan O'Connell.
+
+Q: Q: What was the final score of the Steelers' Week 6 win over the Raiders?
+A: A: The Steelers won 32-13 against the Raiders in Week 6.
+
+Q: Q: What is the prize for participating in the YinzChat Regular Season Challenge this week?
+A: A: The prize is a Joey Porter Jr. signed football.
+
+Q: Q: What was the final score of the Steelers' Week 6 game against the Las Vegas Raiders?
+A: A: The Steelers won the game against the Raiders with a final score of 32-13.
+
+Q: Q: What was the final score of the Steelers' game against the Raiders in Week 6?
+A: A: The Steelers won the game against the Raiders in Week 6 with a score of 32-13.
+
+Q: Q: Who dodged defenders for a 20-yard gain in the Steelers' game against the Raiders?
+A: A: RB Najee Harris dodged defenders for a 20-yard gain.
+
+Q: Q: Where did the Steelers hold the American Flag Football Clinic in 2024?
+A: A: The Steelers held the American Flag Football Clinic at Páirc Esler in Newry, Northern Ireland.
+
+Q: Q: What event did the Steelers host at Acrisure Stadium that benefits the Art Rooney Scholarship Fund and the Chuck Noll Foundation for Brain Injury Research?
+A: A: The Steelers hosted the Annual Steelers 5k Race and Kids Fun Run at Acrisure Stadium to benefit the Art Rooney Scholarship Fund and the Chuck Noll Foundation for Brain Injury Research.
+
+Q: Q: On which day and where is the Siempre Steelers Watch Party presented by Kraft Heinz and Ticketmaster scheduled to take place?
+A: A: The Siempre Steelers Watch Party is scheduled to take place on Sunday, November 10, in Monterrey.
+
+Q: Q: What was the score of the Steelers' win against the Raiders in Week 6?
+A: A: The Steelers won 32-13 against the Raiders in Week 6.
+
+Q: Q: On which date did Justin Fields and Russell Wilson speak to the media in October?
+A: A: Justin Fields and Russell Wilson spoke to the media on Thursday, October 10th.
+
+Q: Q: What days of the week is the Steelers Hall of Honor Museum closed?
+A: A: The Steelers Hall of Honor Museum is closed on Tuesdays.
+
+Q: Q: At what time and on what platforms does "The Steelers Preview Show" air before each game?
+A: A: "The Steelers Preview Show" airs at 7 p.m. on WDVE 100.7 FM and Steelers Nation Radio.
+
+Q: Q: Which foundation was established by a former Steelers player to help individuals with spinal cord injuries?
+A: A: The Ryan Shazier Fund for Spinal Rehabilitation was established by former Steelers linebacker Ryan Shazier to help individuals with spinal cord injuries.
+
+Q: Q: How much has the JSF awarded in scholarship awards since its inception?
+A: A: The JSF has awarded more than $550,000 in scholarship awards since its inception.
+
+Q: Q: In what year was the Heinz Field groundbreaking ceremony held according to the text?
+A: A: The Heinz Field groundbreaking ceremony was held on June 18, 1999.
+
+Q: Q: When did Helen and Imogen Campbell open their brick-and-mortar bookstore, Stories Like Me, in Greenfield?
+A: A: Helen and Imogen Campbell opened their bookstore, Stories Like Me, in Greenfield in November 2022.
+
+Q: Q: In what year was HRT Solutions founded by Jessica Eberley?
+A: A: HRT Solutions was founded in 2016 by Jessica Eberley.
+
+Q: Q: Who is the Steelers nominee for the Don Shula NFL High School Coach of the Year award?
+A: A: Aliquippa High School head football coach Mike Warfield is the Steelers nominee for the Don Shula NFL High School Coach of the Year.
+
+Q: Q: Who are the co-captains for the Steelers' annual fashion show, Steelers Style, mentioned in the text?
+A: A: Pat Freiermuth and Larry Ogunjobi are the co-captains for the Steelers' annual fashion show, Steelers Style.
+
+Q: Q: How many rushing touchdowns did Justin Fields score in the Steelers' 32-13 victory over the Raiders?
+A: A: Justin Fields scored two rushing touchdowns.
+
+Q: Q: Which Pittsburgh Steelers player scored a touchdown during the game against the Las Vegas Raiders on October 13, 2024?
+A: A: Pittsburgh Steelers quarterback Justin Fields (2) scored a touchdown during the game against the Las Vegas Raiders on October 13, 2024.
+
+Q: Q: Which Pittsburgh Steelers player scored a touchdown during the game against the Las Vegas Raiders on October 13, 2024?
+A: A: Pittsburgh Steelers running back Najee Harris (22) scored a touchdown during the game.
+
+Q: Q: What was the final score of the game between the Pittsburgh Steelers and the Las Vegas Raiders on October 13, 2024?
+A: A: The final score was 32-13 in favor of the Pittsburgh Steelers.
+
+Q: Q: What was the final score of the regular season game between the Pittsburgh Steelers and the Las Vegas Raiders on October 13, 2024?
+A: A: The Pittsburgh Steelers defeated the Raiders 32-13.
+
+Q: Q: What was the final score of the game between the Pittsburgh Steelers and the Las Vegas Raiders on October 13, 2024?
+A: A: The Steelers defeated the Raiders 32-13.
+
+Q: Q: What was the score when the Pittsburgh Steelers defeated the Las Vegas Raiders on October 13, 2024?
+A: A: The Steelers defeated the Raiders 32-13.
+
+Q: Q: How many rushing touchdowns did the Steelers have in their 32-13 victory over the Raiders, according to the text?
+A: A: The Steelers had three rushing touchdowns in their 32-13 victory over the Raiders.
+
+Q: Q: Who was named the Digest Player of the Week for a 300-yard passing game, the team's first since October 9, 2022?
+A: A: Fields was named the Digest Player of the Week for his 300-yard passing game, the team's first since October 9, 2022.
+
+Q: Q: Which Pittsburgh Steelers quarterback scored a touchdown during the game against the Las Vegas Raiders on October 13, 2024?
+A: A: Pittsburgh Steelers quarterback Justin Fields (2) scored a touchdown during the game against the Las Vegas Raiders on October 13, 2024.
+
+Q: Q: What did Pittsburgh Steelers running back Najee Harris accomplish during the game against the Las Vegas Raiders on October 13, 2024?
+A: A: Pittsburgh Steelers running back Najee Harris scored a touchdown during the game against the Las Vegas Raiders on October 13, 2024.
+
+Q: Q: What was the final score of the Steelers' Week 6 game against the Raiders?
+A: A: The final score was 32-13 in favor of the Steelers.
+
+Q: Q: What was the key message from Cam Heyward to the Steelers' defense during their game against the Raiders?
+A: A: The key message from Cam Heyward was to "just calm down, play our game," and for everyone to do their own job instead of trying to make big plays.
+
+Q: Q: Which Pittsburgh Steelers quarterback scored a touchdown during the regular season game against the Las Vegas Raiders on October 13, 2024?
+A: A: Pittsburgh Steelers quarterback Justin Fields (2) scored a touchdown during the regular season game against the Las Vegas Raiders on October 13, 2024.
+
+Q: Q: Who scored a touchdown for the Pittsburgh Steelers during the game against the Las Vegas Raiders on October 13, 2024?
+A: A: Najee Harris scored a touchdown for the Pittsburgh Steelers during the game against the Las Vegas Raiders on October 13, 2024.
+
+Q: Q: How many forced fumbles did T.J. Watt achieve in his career by the end of the game on October 13, 2024, and how did it impact the game?
+A: A: T.J. Watt achieved his 29th and 30th career forced fumbles, which both significantly impacted the game by setting up a touchdown before halftime and preventing a potential Raiders score at the goal line.
+
+Q: Q: How many tackles did Patrick Queen have in the game described in the text?
+A: A: Patrick Queen had 13 tackles in the game.
+
+Q: Q: How many times did Justin Fields rush for touchdowns in the game against the Las Vegas Raiders?
+A: A: Justin Fields rushed for two touchdowns against the Las Vegas Raiders.
+
+Q: Q: On what date did the Pittsburgh Steelers play against the Las Vegas Raiders in 2024?
+A: A: The Pittsburgh Steelers played against the Las Vegas Raiders on Sunday, Oct. 13, 2024.
+
+Q: Q: On what date did the regular season game between the Pittsburgh Steelers and the Las Vegas Raiders take place in 2024?
+A: A: The regular season game took place on Sunday, Oct. 13, 2024.
+
+Q: Q: Who scored a touchdown for the Pittsburgh Steelers during the regular season game against the Las Vegas Raiders on October 13, 2024?
+A: A: Pittsburgh Steelers running back Najee Harris (22) and quarterback Justin Fields (2) scored touchdowns during the game.
+
+Q: Q: Who scored a touchdown for the Pittsburgh Steelers during their game against the Las Vegas Raiders on October 13, 2024?
+A: A: Pittsburgh Steelers quarterback Justin Fields scored a touchdown.
+
+Q: Q: Who caught the 31-yard deep pass from QB Justin Fields, as highlighted in the text?
+A: A: WR George Pickens caught the 31-yard deep pass from QB Justin Fields.
+
+Q: Q: Who blocked a punt by Raiders punter A.J. Cole deep in Raiders territory?
+A: A: LB Jeremiah Moon blocked the punt.
+
+Q: Q: Who caused a forced-fumble takeaway for the Steelers against the Raiders inside Pittsburgh's 5-yard line?
+A: A: LB T.J. Watt caused a forced-fumble takeaway against the Raiders inside Pittsburgh's 5-yard line.
+
+Q: Q: How long was Najee Harris's explosive TD run during the Steelers' Week 6 matchup with the Raiders?
+A: A: Najee Harris's explosive TD run was 36 yards.
+
+Q: Q: How many games did it take T.J. Watt to achieve his 100th career sack?
+A: A: T.J. Watt recorded his 100th career sack in just 109 games.
+
+Q: Q: What unique feature does the Steelers Stillhouse offer with their limited-edition spirits collection?
+A: A: The Steelers Stillhouse offers a collection of limited-edition, commemorative spirits on an annual basis with the chance to collect five commemorative rocks glasses featuring tributes to the 1974 World Championship Steelers throughout the season.
+
+Q: Q: What inspired Karin Christoff to found Fierce Knockouts?
+A: A: Karin Christoff was inspired to found Fierce Knockouts by her personal experiences during the pandemic, recognizing a gap in workout apparel for women who gain weight around their midsection.
+
+Q: Q: When was Self-Care Señorita founded by Victoria Snyder?
+A: A: Self-Care Señorita was founded in July of 2019.
+
+Q: Q: How many rushing yards did Najee Harris gain in the Steelers' 32-13 victory over the Raiders?
+A: A: Najee Harris gained 106 rushing yards in the Steelers' 32-13 victory over the Raiders.
+
+Q: Q: Who are the Steelers legends set to be present at the Siempre Steelers Watch Party in Monterrey on November 10th?
+A: A: The Steelers legends set to be present are Jeff Hartings, Dermontti Dawson, and Carnell Lake.
+
+Q: Q: ¿Contra qué equipo jugaron los Pittsburgh Steelers en el primer partido de la temporada regular?
+A: A: Los Pittsburgh Steelers jugaron contra los Atlanta Falcons en el primer partido de la temporada regular.
+
+Q: Q: On what date in 2024 did the Pittsburgh Steelers practice for their Week 6 matchup against the Las Vegas Raiders?
+A: A: The Pittsburgh Steelers practiced for their Week 6 matchup against the Las Vegas Raiders on Wednesday, Oct. 9, 2024.
+
+Q: Q: ¿Cuál fue el resultado del partido entre los Pittsburgh Steelers y los Dallas Cowboys en la semana 5 de la temporada regular de la NFL?
+A: A: Los Pittsburgh Steelers perdieron 20-17 contra los Dallas Cowboys.
+
+Q: Q: On what date did the Pittsburgh Steelers play against the Dallas Cowboys at Acrisure Stadium?
+A: A: The Pittsburgh Steelers played against the Dallas Cowboys on Sunday, Oct. 6, 2024.
+
+Q: Q: ¿Qué equipo derrotó a los Pittsburgh Steelers en la semana 4 de la temporada regular de la NFL?
+A: A: Los Indianápolis Colts derrotaron a los Pittsburgh Steelers en la semana 4.
+
+Q: Q: On what date did the Steelers host an appreciation party for fans from Mexico and Spain in 2024?
+A: A: The Steelers hosted an appreciation party for fans from Mexico and Spain on Saturday, Oct. 5, 2024.
+
+Q: Q: Who spoke to the media on October 11 following practice according to the text?
+A: A: T.J. Watt and Broderick Jones spoke to the media on October 11 following practice.
+
+Q: Q: Who intercepted Raiders QB Aidan O'Connell's overthrown pass attempt?
+A: A: CB Donte Jackson intercepted Raiders QB Aidan O'Connell's overthrown pass attempt.
+
+Q: Q: On what date did Justin Fields and Russell Wilson speak to the media together in October?
+A: A: Justin Fields and Russell Wilson spoke to the media on Thursday, October 3rd.
+
+Q: Q: Who intercepted a pass attempt by Raiders QB Aidan O'Connell?
+A: A: CB Donte Jackson intercepted a pass attempt by Raiders QB Aidan O'Connell.
+
+Q: Q: On what date did George Pickens, Darnell Washington, Mason McCormick, and Roman Wilson speak to the media?
+A: A: George Pickens, Darnell Washington, Mason McCormick, and Roman Wilson spoke to the media on September 25.
+
+Q: Q: On what date did T.J. Watt and Spencer Anderson speak to the media following practice?
+A: A: T.J. Watt and Spencer Anderson spoke to the media following practice on September 20.
+
+Q: Q: On what date did T.J. Watt and Broderick Jones speak to the media following practice?
+A: A: T.J. Watt and Broderick Jones spoke to the media following practice on October 11.
+
+Q: Q: On what date did Coach Mike Tomlin speak to the media about preparing for the Week 6 game against the Raiders?
+A: A: Coach Mike Tomlin spoke to the media on Tuesday, October 8th.
+
+Q: Q: What was the result of the Steelers' game against the Cowboys that Coach Mike Tomlin addressed in a press conference?
+A: A: The Steelers lost 20-17 to the Cowboys.
+
+Q: Q: What was the score in the Steelers' loss to the Colts as discussed by Coach Mike Tomlin?
+A: A: The score was 27-24 in the Steelers' loss to the Colts.
+
+Q: Q: What was the score of the Steelers' win over the Broncos that Mike Tomlin discussed as back-to-back road wins?
+A: A: The Steelers won 13-6 over the Broncos.
+
+Q: Q: On which day did Coach Mike Tomlin speak to the media about preparing to face the Raiders in Week 6?
+A: A: Coach Mike Tomlin spoke to the media on Tuesday, October 8th, about preparing to face the Raiders in Week 6.
+
+Q: Q: Who did the Steelers defeat with a score of 32-13 according to the text?
+A: A: The Steelers defeated the Raiders with a score of 32-13.
+
+Q: Q: Who was named the starting quarterback for the Steelers for the 2024-2025 season?
+A: A: Russell Wilson was named the starting quarterback for the Steelers for the 2024-2025 season.
+
+Q: Q: Which episode of The Standard features T.J. Watt breaking the franchise sack record?
+A: A: T.J. Watt breaking the franchise sack record is featured in the episode "The Standard - Making an Impact."
+
+Q: Q: What notable achievement did T.J. Watt accomplish as featured in The Standard - Making an Impact episode?
+A: A: T.J. Watt broke the franchise sack record.
+
+Q: Q: Which episode of "The Standard" features T.J. Watt breaking the franchise sack record?
+A: A: "The Standard - Making an Impact" features T.J. Watt breaking the franchise sack record.
+
+Q: Q: Which episode of "The Standard" features exclusive access at the Senior Bowl and Walter Payton Man of the Year Cameron Heyward?
+A: A: The episode titled "All Stars & Accolades" features exclusive access at the Senior Bowl and Walter Payton Man of the Year Cameron Heyward.
+
+Q: Q: How many yards was Najee Harris's explosive touchdown run against the Raiders?
+A: A: Najee Harris's explosive touchdown run was 36 yards.
+
+Q: Q: Which players and coach are featured in "The Standard - Honoring Heroes" episode for their military service with the U.S. Army?
+A: A: The "The Standard - Honoring Heroes" episode features safety Elijah Riley and quarterbacks coach Mike Sullivan for their military service with the U.S. Army.
+
+Q: Q: Who is the Secondary Coach mentioned in the Steelers' behind-the-scenes series, "The Standard"?
+A: A: The Secondary Coach mentioned is Grady Brown.
+
+Q: Q: When does the registration for the Steelers Miller Time Sweepstakes end?
+A: A: The contest registration ends Tuesday, December 31, 2024, at 11:59pm ET.
+
+Q: Q: Who is the Pittsburgh Steelers head coach mentioned in the text prior to the game on October 13, 2024?
+A: A: The Pittsburgh Steelers head coach mentioned in the text is Mike Tomlin.
+
+Q: Q: On what date did the Pittsburgh Steelers face the Las Vegas Raiders in a regular season game in 2024?
+A: A: The Pittsburgh Steelers faced the Las Vegas Raiders on Sunday, Oct. 13, 2024.
+
+Q: Q: On what date did the Pittsburgh Steelers play against the Las Vegas Raiders in 2024?
+A: A: The game took place on Sunday, October 13, 2024.
+
+Q: Q: When was the Steelers Nation Unite Road Warriors event held in Las Vegas in 2024?
+A: A: The Steelers Nation Unite Road Warriors event was held on Saturday, Oct. 12, 2024, in Las Vegas, NV.
+
+Q: Q: On what date in 2024 did the Pittsburgh Steelers travel to Las Vegas for their Week 6 matchup against the Raiders?
+A: A: The Pittsburgh Steelers traveled to Las Vegas on Saturday, Oct. 12, 2024, for their Week 6 matchup against the Raiders.
+
+Q: Q: On what date did the Pittsburgh Steelers travel to Las Vegas for their Week 6 matchup against the Las Vegas Raiders in 2024?
+A: A: The Pittsburgh Steelers traveled to Las Vegas on Saturday, Oct. 12, 2024, for their Week 6 matchup against the Las Vegas Raiders.
+
+Q: Q: Where did the Steelers travel for their Week 6 matchup?
+A: A: The Steelers traveled to Las Vegas for their Week 6 matchup against the Raiders.
+
+Q: Q: Who participated in a Hispanic Heritage Month program at Arsenal Middle School alongside Roberto Clemente Jr. on Thursday morning?
+A: A: Steelers General Manager Omar Khan participated in the program.
+
+Q: Q: What did Khan emphasize as important to the students at Pittsburgh Arsenal 6-9 during his talk?
+A: A: Khan emphasized the importance of having big dreams, sticking together, and looking out for each other to get through hard times united.
+
+Q: Q: When did the Pittsburgh Steelers meet with Bryant Sanchez at the UPMC Rooney Sports Complex?
+A: A: The Pittsburgh Steelers met with Bryant Sanchez on Friday, Sept. 20, 2024, in Pittsburgh, PA.
+
+Q: Q: What event did the Steelers host to honor military members at Acrisure Stadium?
+A: A: The Steelers hosted the annual Heroes Night Out to honor military members at Acrisure Stadium.
+
+Q: Q: What event did the Steelers host at Acrisure Stadium on Tuesday, Sept. 10, 2024?
+A: A: The Steelers hosted Heroes Night Out, giving back to veterans, at Acrisure Stadium on Tuesday, Sept. 10, 2024.
+
+Q: Q: Which foundations collaborated with the Steelers for the Pittsburgh Public Schools Back to School Event?
+A: A: Cameron Heyward's foundation, The Heyward House, and Russell Wilson's Why Not You Foundation collaborated with the Steelers for the event.
+
+Q: Q: What organization did Young Black Motivated Kings & Queens collaborate with on July 26 for a community relations program?
+A: A: Young Black Motivated Kings & Queens collaborated with the Steelers.
+
+Q: Q: What is the vision of the Neighborhood Resilience Project according to Rev. Paul T. Abernathy?
+A: A: The vision of the Neighborhood Resilience Project is to inspire a movement in which suffering people are raised up from the ashes of trauma in unconditional love to become empowered healers, community builders, and positive change makers.
+
+Q: Q: Which causes benefited from the proceeds of the Steelers Style fashion show celebrating its 50th Anniversary?
+A: A: The proceeds benefited the UPMC Sports Medicine Concussion Program, Cancer Bridges, and the Chuck Noll Foundation.
+
+Q: Q: What event took place on Friday, Oct. 4, 2024, in Pittsburgh, PA?
+A: A: Steelers Style benefiting UPMC Sports Medicine Concussion Program, Cancer Bridges, and the Chuck Noll Foundation took place.
+
+Q: Q: Who was the 'halftime' musical performer at the Steelers fashion show and what is his relation to Mike Tomlin?
+A: A: The 'halftime' musical performer was Mayce, the son of Mike and Kiya Tomlin.
+
+Q: Q: When was the Steelers Style event benefiting various foundations held?
+A: A: The Steelers Style event was held on Friday, Oct. 4, 2024.
+
+Q: Q: Since what year has Cancer Bridges been a beneficiary of Steelers Style?
+A: A: Cancer Bridges has been a beneficiary of Steelers Style since 1992.
+
+Q: Q: On what date was the Steelers Style benefiting UPMC Sports Medicine Concussion Program, Cancer Bridges, and the Chuck Noll Foundation event held in 2024?
+A: A: The event was held on Friday, Oct. 4, 2024.
+
+Q: Q: On what date did the Steelers Style 2024 event occur?
+A: A: The Steelers Style 2024 event took place on Friday, Oct. 4, 2024.
+
+Q: Q: How many kids did the Steelers support with school supplies during their back-to-school initiative?
+A: A: The Steelers supported more than 4,500 kids with school supplies.
+
+Q: Q: Which Pittsburgh Steelers player spent time with his wife visiting multiple schools in the Pittsburgh area to hand out supply bags and read to students?
+A: A: Linebacker T.J. Watt spent time with his wife visiting multiple schools in the Pittsburgh area to hand out supply bags and read to students.
+
+Q: Q: Who hosted the third annual Back To School event providing backpacks and school supplies to 300 kids at Urban Academy in Pittsburgh?
+A: A: Defensive lineman Larry Ogunjobi hosted the third annual Back To School event.
+
+Q: Q: What are the key factors involved in blocking a field goal in the NFL?
+A: A: The key factors in blocking a field goal in the NFL are technique and opportunity, including having a consistent approach to technique, urgency, and the opportunity from the negligence of the field goal unit's operation.
+
+Q: Q: Why was Roman Wilson unable to participate in practice and preseason games for the Steelers in 2024?
+A: A: Roman Wilson was injured on the sixth snap of the first practice in pads at Saint Vincent College and wasn't able to practice or play due to that injury.
+
+Q: Q: What was involved in the trade between the Steelers and the Panthers for Diontae Johnson?
+A: A: The Steelers traded Diontae Johnson for Donte Jackson and swapped draft picks, with Carolina getting pick No. 240 and the Steelers getting pick No. 178.
+
+Q: Q: According to Pro Football Focus, what is the rank of Dan Moore Jr. among all qualified offensive tackles this season?
+A: A: Dan Moore Jr. ranks 18th among all qualified offensive tackles this season according to Pro Football Focus.
+
+Q: Q: On what date did the Pittsburgh Steelers practice for their Week 6 matchup against the Las Vegas Raiders in 2024?
+A: A: The Pittsburgh Steelers practiced on Wednesday, Oct. 9, 2024.
+
+Q: Q: What was Aaron Shampklin's average return yardage last week with Patterson and Warren sidelined?
+A: A: Aaron Shampklin averaged 25.3 yards per return with a long of 32 yards.
+
+Q: Q: Who are the practice squad players the Steelers will rely on at outside linebacker in their upcoming game against the Raiders due to injuries?
+A: A: The Steelers will rely on Adetokunbo Ogundeji and Eku Leota from the practice squad at outside linebacker.
+
+Q: Q: What does the Steelers Hall of Honor Museum donate a portion of its proceeds to, and who benefits from it?
+A: A: The Steelers Hall of Honor Museum donates a portion of its proceeds to the Art Rooney Scholarship Fund, benefitting a student from North Catholic High School and two students graduating from Pittsburgh high schools through the Pittsburgh Promise scholarships.
+
+Q: Q: Which player was drafted with the 20th overall pick in the 2024 NFL Draft?
+A: A: OT Troy Fautanu was drafted with the 20th overall pick in the 2024 NFL Draft.
+
+Q: Q: When will the Steelers Draft Wrap Up Show be broadcast, and who will present it?
+A: A: The Steelers Draft Wrap Up Show will be broadcast on Saturday, April 27, 2024, at 7:30 p.m. ET, presented by Bob Pompeani on KDKA.
+
+Q: Q: In what round did the Steelers select Keeanu Benton in the NFL Draft?
+A: A: The Steelers selected Keeanu Benton in the second round of the NFL Draft.
+
+Q: Q: What initiative are the Steelers participating in as part of their effort toward diversity in sports medicine?
+A: A: The Steelers are taking part in the NFL Diversity in Sports Medicine Pipeline Initiative.
+
+Q: Q: When were football-like offseason activities scheduled to begin according to the text?
+A: A: Football-like offseason activities were scheduled to begin in late May.
+
+Q: Q: Who had 195 receiving yards and two touchdowns in a victory for the Steelers?
+A: A: Pickens is the player who had 195 receiving yards and two touchdowns.
+
+Q: Q: Who completed a 3-yard touchdown run for the Steelers in the game against the Raiders?
+A: A: QB Justin Fields completed a 3-yard touchdown run for the Steelers against the Raiders.
+
+Q: Q: Against which team did the Steelers secure a victory on Monday Night Football as highlighted in the text?
+A: A: The Steelers secured a victory over the Buccaneers on Monday Night Football.
+
+Q: Q: Which team did the Steelers defeat with a score of 32-13 according to the press pass videos?
+A: A: The Steelers defeated the Raiders with a score of 32-13.
+
+Q: Q: Against which team did the Steelers prepare to play in Week 6?
+A: A: The Steelers prepared for the Week 6 matchup against the Las Vegas Raiders.
+
+Q: Q: During which week did the Steelers play against the Las Vegas Raiders at Allegiant Stadium?
+A: A: The Steelers played against the Las Vegas Raiders at Allegiant Stadium during Week 6.
+
+Q: Q: Where did the Steelers play their Week 6 game against the Raiders?
+A: A: The Steelers played their Week 6 game against the Raiders at Allegiant Stadium.
+
+Q: Q: Which game did the Steelers defeat the Ravens with a score of 16-13 according to Karl’s top photos?
+A: A: The Steelers defeated the Ravens 16-13 in the Week 18 matchup.
+
+Q: Q: What is the starting price for a seat license fee in the 500-level sections of Acrisure Stadium?
+A: A: The starting price for a seat license fee in the 500-level sections of Acrisure Stadium is $1,250.
+
+Q: Q: What is the transfer fee for a Pittsburgh Steelers Seat License Transfer Request submitted on or after May 1, 2010?
+A: A: The transfer fee for a Pittsburgh Steelers Seat License Transfer Request submitted on or after May 1, 2010, is $50.
+
+Q: Q: In what year was the Steelers Hall of Honor created?
+A: A: The Steelers Hall of Honor was created in August 2017.
+
+Q: Q: What is the purpose of the Chuck Noll Foundation for Brain Injury Research as announced by the Pittsburgh Steelers team President, Art Rooney II?
+A: A: The Chuck Noll Foundation for Brain Injury Research is established to support continued research and education regarding brain injuries and the treatment of sports-related concussions.
+
+Q: Q: Who is serving as the sideline reporter for the Steelers High School Football Showcase Game of the Week?
+A: A: Suzie Cool is serving as the sideline reporter.
+
+Q: Q: Which game in Week 8's Steelers High School Football Showcase featured the Central Valley Warriors?
+A: A: The Central Valley Warriors defeated the West Allegheny Indians in Week 8's Steelers High School Football Showcase Game of the Week.
+
+Q: Q: Does the Privacy Notice apply to the NFL Credential Card Program?
+A: A: No, the Privacy Notice does not apply to the NFL Credential Card Program, which is governed by a separate Stadium and Event Credentialing Privacy Policy.
+
+Q: Q: What happens if the NFL learns that a child has provided personal information?
+A: A: If the NFL learns that a child has provided personal information, they will delete it or otherwise comply with applicable law.
+
+Q: Q: What is the average number of days within which the NFL responded to requests regarding personal information in 2023?
+A: A: The average number of days within which the NFL substantively responded to requests about personal information in 2023 is 72 days.
+
+Q: Q: What must be included in your ARCO request for processing of personal data by the Steelers?
+A: A: Your ARCO request must include your name, address, or email address to receive an answer; documents to confirm your identity or the identity of your legal representative (if applicable); an accurate description of the specific personal data in question; and any other information or document which may facilitate the identification of your personal data.
+
+Q: Q: What is required for using certain features of the Site according to the text?
+A: A: A user name and password obtained through the Site's registration process or a subscription purchase are required.
+
+Q: Q: What are users not allowed to do without the Steelers' prior written permission regarding the Site's content?
+A: A: Users are not allowed to frame or inline link any of the content of the Site, or incorporate it into another website or service, without the Steelers' prior written permission.
+
+Q: Q: What guidelines are the Pittsburgh Steelers committed to conforming to for their website accessibility?
+A: A: The Pittsburgh Steelers are committed to conforming to the World Wide Web Consortium's Web Content Accessibility Guidelines 2.1 at Levels A and AA for their website accessibility.
+
+Q: Q: When was the Steelers Privacy Policy last updated?
+A: A: The Steelers Privacy Policy was last updated on July 1, 2024.
+
+Q: Q: What can you use to sign into certain features on the NFL's Services if you link your account from a third-party site or service?
+A: A: You can use your credentials from the other site or service to sign into certain features on the NFL's Services.
+
+Q: Q: What is the average number of days within which the NFL responds to requests related to personal information under California law as of 2023?
+A: A: The average number of days is 72 days.
+
+Q: Q: How many business days do you have to supplement your ARCO request if informed of missing information in the initial application?
+A: A: You have ten (10) business days to supplement your ARCO request if informed of missing information.
+
+==================================================
+
+File: visitpittsburgh_copy.txt
+
+Q: Q: In what year will Pittsburgh host the NFL Draft?
+A: A: Pittsburgh will host the NFL Draft in 2026.
+
+Q: Q: What is the name of the museum that offers free tours and features the world's largest collection of bicycles in Pittsburgh?
+A: A: Bicycle Heaven is the museum offering free tours with the world's largest collection of bicycles in Pittsburgh.
+
+Q: Q: Where can you visit the largest collection of Christian relics outside of the Vatican in Pittsburgh?
+A: A: St. Anthony's Chapel houses the largest collection of Christian relics outside of the Vatican.
+
+Q: Q: What activities does Pittsburgh offer for outdoor enthusiasts?
+A: A: Pittsburgh offers biking, kayaking, hiking, and fishing opportunities along its riverfront trails and parks.
+
+Q: Q: What is the capacity of Acrisure Stadium, where the Pittsburgh Steelers play?
+A: A: The capacity of Acrisure Stadium is 68,400.
+
+Q: Q: When will the Pittsburgh Independent Film Festival take place in 2024?
+A: A: The Pittsburgh Independent Film Festival will take place from June 28-30, 2024.
+
+Q: Q: What event at the Heinz History Center celebrates H.J. Heinz's 180th birthday?
+A: A: "The History of Pittsburgh Through a Ketchup Bottle" celebrates H.J. Heinz's 180th birthday.
+
+Q: Q: When is the 2024 Highmark International StrEAT Festival scheduled to take place?
+A: A: The 2024 Highmark International StrEAT Festival is scheduled for October 19-20, 2024.
+
+Q: Q: When can visitors meet Santa Claus at Heinz Hall Courtyard during the holiday season in Pittsburgh?
+A: A: Visitors can meet Santa Claus at Heinz Hall Courtyard from November 24 to December 23, 2023, on select dates.
+
+Q: Q: When can guests experience the sensory-friendly performance of The Nutcracker by the Pittsburgh Ballet Theater?
+A: A: The sensory-friendly performance of The Nutcracker by the Pittsburgh Ballet Theater is on December 17, 2023.
+
+Q: Q: On what date does Hundred Acres Manor open for the Halloween season in 2024?
+A: A: Hundred Acres Manor opens on Friday the 13th, September 13, 2024.
+
+Q: Q: When is the Western Pennsylvania Juneteenth Homecoming Celebration taking place in Pittsburgh in 2024?
+A: A: The Western Pennsylvania Juneteenth Homecoming Celebration is happening June 14-16, 2024, in Point State Park and Market Square.
+
+Q: Q: What date and time is the Grand Jubilee Juneteenth Parade scheduled to start in Downtown Pittsburgh?
+A: A: The Grand Jubilee Juneteenth Parade is scheduled to start at 10 a.m. on Saturday, June 15.
+
+Q: Q: What special event does Pittsburgh celebrate that is the nation's first Black brew festival?
+A: A: Pittsburgh celebrates the award-winning Barrel and Flow Fest, the nation's first Black brew festival.
+
+Q: Q: How many distilleries are there currently in the state of Pennsylvania?
+A: A: There are around 70 distilleries in the state of Pennsylvania.
+
+Q: Q: What is Community Supported Agriculture (CSA) in Pittsburgh?
+A: A: Community Supported Agriculture (CSA) in Pittsburgh is a formal agreement between local residents and farmers to ensure a seasonal supply of farm fresh products, benefiting both local families and farmers.
+
+Q: Q: What is the largest manmade lake in Pennsylvania, where visitors can enjoy outdoor activities such as hiking, biking, and boating?
+A: A: Lake Arthur is the largest manmade lake in Pennsylvania, located at Moraine State Park, where visitors can enjoy activities like hiking, biking, and boating.
+
+Q: Q: What is the Pittsburgh Black Music Festival intended to celebrate?
+A: A: The Pittsburgh Black Music Festival is intended to celebrate the history and heritage of Black Music in America.
+
+Q: Q: What piece of Andy Warhol's work is highlighted at The Andy Warhol Museum in Pittsburgh?
+A: A: One of Andy Warhol's most famous pieces, Campbell’s Soup Cans, is highlighted at The Andy Warhol Museum in Pittsburgh.
+
+Q: Q: What service does Medico provide in the Pittsburgh area, and how does it operate?
+A: A: Medico provides on-location, short-term care for temporary workers, visitors, or dignitaries in the Pittsburgh area, seeing patients at work, hotels, meetings, or wherever they may be located.
+
+Q: Q: How can someone request the hours of operation for the Welcome Pittsburgh Information Center at Pittsburgh International Airport?
+A: A: To request hours of operation, one can call 877-568-3744, email info@visitpittsburgh.com, or use the LiveChat feature on the website.
+
+Q: Q: What year is mentioned as the copyright year for Visit Pittsburgh's content?
+A: A: The copyright year for Visit Pittsburgh's content is 2024.
+
+Q: Q: How many businesses are participating in Pittsburgh's Show Your Badge Program in 2024?
+A: A: Nearly 50 businesses are participating in Pittsburgh's Show Your Badge Program in 2024.
+
+Q: Q: When is the Pittsburgh Irish Festival in 2024, and where will it be held?
+A: A: The Pittsburgh Irish Festival will be held from September 6-8, 2024, at the Carrie Blast Furnaces.
+
+Q: Q: When is the Confluence PumpkinFest scheduled for?
+A: A: The Confluence PumpkinFest is scheduled for October 4-6, 2024.
+
+Q: Q: What is the cost of a weekend pass for the 2024 Pittsburgh Irish Festival?
+A: A: A weekend pass for the 2024 Pittsburgh Irish Festival costs $60.
+
+Q: Q: When will The Original Pittsburgh Taco Festival take place in 2024?
+A: A: The Original Pittsburgh Taco Festival will take place on September 14, 2024.
+
+Q: Q: Where do the Pittsburgh Steelers play their home games?
+A: A: The Pittsburgh Steelers play their home games at Acrisure Stadium in the North Shore neighborhood of Pittsburgh, Pennsylvania.
+
+Q: Q: In what year did the Backyard Brawl return to the College Football season after the Big East football breakup?
+A: A: The Backyard Brawl returned to the College Football season in 2022.
+
+Q: Q: What is the name of the new home kit for the Hounds in 2024?
+A: A: The new home kit for the Hounds in 2024 is called the Three Rivers.
+
+Q: Q: What unique feature does North Shore Tavern offer in its dining experience?
+A: A: North Shore Tavern offers meals prepared and served on a 700º lava stone, where they continue to cook at the table.
+
+Q: Q: What colors are the cars on the Duquesne and Monongahela Inclines in Pittsburgh?
+A: A: The Duquesne Incline has red cars, while the Monongahela Incline has yellow cars.
+
+Q: Q: Where can visitors in Pittsburgh take a photo with towering fir trees trimmed to perfection?
+A: A: Visitors can take a photo with towering fir trees trimmed to perfection at the Hall of Architecture in the Carnegie Museum of Art.
+
+Q: Q: What is the opening date for the Fall Flower Show: Rhythm and Blooms at Phipps Botanical Gardens in Pittsburgh?
+A: A: The Fall Flower Show: Rhythm and Blooms at Phipps Botanical Gardens opens on October 5, 2024.
+
+Q: Q: What is Pennsylvania's first ginger beer brewery located in Pittsburgh called?
+A: A: Pennsylvania's first ginger beer brewery in Pittsburgh is called Jackworth Ginger Beer.
+
+Q: Q: What ingredients are used in Jackworth's flagship naturally fermented ginger beer?
+A: A: Jackworth's flagship naturally fermented ginger beer uses organic ginger from Peru, cane sugar, lemon, and water.
+
+Q: Q: What is the mailing address for VisitPittsburgh?
+A: A: The mailing address for VisitPittsburgh is 120 Fifth Avenue, Fifth Avenue Place, Suite 2800, Pittsburgh, PA 15222.
+
+Q: Q: How long should individuals allow for VisitPittsburgh to fully implement requests to delete or deactivate their PII?
+A: A: Individuals should allow at least thirty (30) days for VisitPittsburgh to fully implement such requests.
+
+==================================================
+
+File: pirates.txt
+
+Q: Q: What is the required minimum number of attendees for a group to be eligible for discounts on Pittsburgh Pirates group tickets?
+A: A: Groups of 10 or more are eligible to receive discounted ticket prices.
+
+Q: Q: How many people can the AHN Picnic Park accommodate at PNC Park?
+A: A: The AHN Picnic Park can accommodate up to 400 people.
+
+Q: Q: Until what time can you forward a ticket on the day of a game via the MLB Ballpark app for entry at PNC Park?
+A: A: You can forward tickets via the MLB Ballpark app until two hours after the start of that day’s game as long as they have not been scanned for entry at PNC Park.
+
+Q: Q: What app must be used to access PNC Park Tour tickets and what must be ensured before using it?
+A: A: The free MLB Ballpark app must be used to access PNC Park Tour tickets, and the latest version of the app must be downloaded on your mobile device.
+
+Q: Q: What is the date and location of the 2025 MLB All-Star Game?
+A: A: The 2025 MLB All-Star Game will be held in Atlanta, Georgia, from July 11-15, 2025.
+
+Q: Q: Where did the seventh annual MLB event featuring the New York Yankees and the Detroit Tigers take place in 2024?
+A: A: The seventh annual MLB event took place at Historic Bowman Field in Williamsport, Pennsylvania, on August 18, 2024.
+
+Q: Q: What specific injury did Vince Velasquez re-aggravate in his first start after returning from the injured list?
+A: A: Vince Velasquez re-aggravated his right elbow.
+
+Q: Q: Which switch hitter ranks second in Pittsburgh Pirates history for most home runs hit while wearing a Bucco uniform?
+A: A: Neil Walker ranks second behind Bobby Bonilla for most home runs hit by a switch hitter in a Bucco uniform.
+
+Q: Q: Who did the Pirates part ways with from their coaching staff in 2024?
+A: A: The Pirates parted ways with hitting coach Andy Haines, bullpen coach Justin Meccage, and strength and conditioning coach Adam Vish in 2024.
+
+Q: Q: When was the 2025 PiratesFest scheduled to take place?
+A: A: The 2025 PiratesFest was scheduled to take place on Saturday, January 18.
+
+Q: Q: When did the Pittsburgh Pirates announce a partnership with Edgar Snyder & Associates?
+A: A: The Pittsburgh Pirates announced a partnership with Edgar Snyder & Associates today.
+
+Q: Q: In what year did PNC Park open?
+A: A: PNC Park opened in spring 2001.
+
+Q: Q: What feature of Pops' Plaza aims to improve fan wait times at PNC Park?
+A: A: Pops' Plaza at PNC Park includes self-ordering kiosks to allow fans to place their order at multiple stands in one transaction, thus improving wait times.
+
+Q: Q: What unique Power Hitters Program did the Pirates and Duquesne Light create during the 2021 and 2022 seasons, and what was its outcome?
+A: A: The Pirates and Duquesne Light created the Power Hitters Program, resulting in 282 trees being planted in Pittsburgh during the 2021 and 2022 seasons.
+
+Q: Q: How long has Pirates Charities been supporting Miracle League programs?
+A: A: Pirates Charities has been supporting Miracle League programs for more than 15 years.
+
+Q: Q: Who is the current owner of Nancy's Diner, which is now known as Nancy's Revival?
+A: A: The current owner of Nancy's Diner, now Nancy's Revival, is Jordan Robarge.
+
+Q: Q: Where is Jerry's Pizzeria located?
+A: A: Jerry's Pizzeria is located in the Hill District.
+
+Q: Q: How can a member activate their membership to redeem tickets on the Bucaroos Kids Club Members Portal?
+A: A: A member can activate their membership by clicking "Already a Member" at the top of the page, filling out the requested information, and submitting the form.
+
+Q: Q: Who was solely responsible for the authentication of MLB items from 2001 to 2005?
+A: A: Deloitte & Touche was solely responsible for the authentication of MLB items from 2001 to 2005.
+
+Q: Q: What damage did the Pirates' Spring Training facilities sustain after Hurricane Milton?
+A: A: The Pirates' Spring Training facilities sustained damage to the batter’s eye and fencing between fields at Pirate City, as well as the outfield wall at LECOM Park.
+
+Q: Q: In what round was Derek Diamond drafted by the Pirates?
+A: A: Derek Diamond was a sixth-round pick by the Pirates.
+
+Q: Q: Which top Mariners prospect leads the Arizona Fall League in hits and home runs?
+A: A: Colt Emerson is the top-ranked Mariners prospect leading the Arizona Fall League in hits, and Kemp Alderman leads in home runs.
+
+Q: Q: What was the ERA of Nationals’ Dustin Saenz at High-A and Double-A in 2023?
+A: A: Dustin Saenz had a 3.43 ERA at High-A and Double-A in 2023.
+
+Q: Q: What injury did Kyle Nicolas sustain that led to his expected return in 2025?
+A: A: Kyle Nicolas sustained a left oblique strain.
+
+Q: Q: What notable event involving Steve Blass is mentioned in the Pirates Photos section?
+A: A: The Pirates Photos section notes "Thank you for 60 years, Steve Blass. Happy retirement!"
+
+Q: Q: What is Major League Baseball's commitment regarding accessibility?
+A: A: Major League Baseball is committed to accessibility, diversity, and inclusion by ensuring that their digital properties are accessible to all individuals and comply with all applicable laws regarding accessibility and prohibiting discrimination on the basis of disability.
+
+Q: Q: Who should you contact for closed caption-specific issues according to the provided text?
+A: A: For closed caption-specific issues, you should email [email protected].
+
+==================================================
+
