@@ -6,7 +6,9 @@ import os
 from urllib.parse import urljoin, urlparse
 import chardet
 import urllib3
-
+from selenium import webdriver
+import time
+import re
 
 # Disable InsecureRequestWarning
 urllib3.disable_warnings(urllib3.exceptions.InsecureRequestWarning)
@@ -44,6 +46,7 @@ class WebScraperGUI:
         self.status_label.pack(pady=5)
 
         self.scraped_content = {}
+        self.browser = webdriver.Chrome()
 
     def scrape_url(self):
         url = self.url_entry.get()
@@ -69,26 +72,32 @@ class WebScraperGUI:
 
     def scrape_page(self, url):
         try:
-            verify_ssl = not self.ignore_ssl_var.get()
-            response = requests.get(url, timeout=10, verify=verify_ssl)
-            response.raise_for_status()
+            # verify_ssl = not self.ignore_ssl_var.get()
+            # response = requests.get(url, timeout=10, verify=verify_ssl)
+            # response.raise_for_status()
             
             # Detect encoding
-            encoding = chardet.detect(response.content)['encoding']
+            # encoding = chardet.detect(response.content)['encoding']
             
-            if encoding is None:
-                print(f"Warning: Unable to detect encoding for {url}. Skipping.")
-                return
+            # if encoding is None:
+            #     print(f"Warning: Unable to detect encoding for {url}. Skipping.")
+            #     return
             
             # Decode content with detected encoding
             try:
-                html_content = response.content.decode(encoding, errors='replace')
+                self.browser.get(url)
+                time.sleep(5)
+                html_content = self.browser.page_source
+
+                #html_content = response.content.decode(encoding, errors='replace')
             except (LookupError, TypeError):
                 print(f"Warning: Error decoding content from {url}. Skipping.")
                 return
             
             soup = BeautifulSoup(html_content, 'html.parser')
-            content = ' '.join([tag.get_text().strip() for tag in soup.find_all(['p', 'h1', 'h2', 'h3', 'h4', 'h5', 'h6'])])
+            #content = ' '.join([tag.get_text().strip() for tag in soup.find_all(['p', 'h1', 'h2', 'h3', 'h4', 'h5', 'h6'])])
+            content = soup.get_text()
+            content = re.sub(r'\n+', '\n', content)
             self.scraped_content[url] = content
             print(f"Scraped: {url}")  # Progress indicator
         except requests.RequestException as e:
@@ -97,10 +106,10 @@ class WebScraperGUI:
     def scrape_subpages(self, base_url):
         base_domain = urlparse(base_url).netloc
         try:
-            verify_ssl = not self.ignore_ssl_var.get()
-            response = requests.get(base_url, timeout=10, verify=verify_ssl)  
-            response.raise_for_status()
-            soup = BeautifulSoup(response.text, 'html.parser')
+            self.browser.get(base_url)
+            time.sleep(5)
+            html_content = self.browser.page_source
+            soup = BeautifulSoup(html_content, 'html.parser')
             
             for link in soup.find_all('a', href=True):
                 subpage_url = urljoin(base_url, link['href'])
