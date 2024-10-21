@@ -1,0 +1,434 @@
+File: cmu_britannica.txt
+
+Q: Q: In what year was the Carnegie Institute of Technology renamed from Carnegie Technical Schools?
+A: A: The Carnegie Institute of Technology was renamed from Carnegie Technical Schools in 1912.
+
+==================================================
+
+File: pittsburgh_britannica.txt
+
+Q: Q: In what year was the Pennsylvania Canal and the Portage Railroad completed?
+A: A: The Pennsylvania Canal and the Portage Railroad were completed in 1834.
+
+Q: Q: In what year was the University of Pittsburgh chartered?
+A: A: The University of Pittsburgh was chartered in 1787.
+
+Q: Q: Where does the Penguins, Pittsburgh's professional ice hockey team, play?
+A: A: The Penguins play at PPG Paints Arena.
+
+==================================================
+
+File: pittsburgh_pa.txt
+
+Q: Q: What is the launch date for the new City of Pittsburgh website?
+A: A: The new City of Pittsburgh website is set to launch on October 22, 2024.
+
+Q: Q: In what year did the city launch a new website as part of the goals of which was to provide the opportunity for Resident Guides to be created?
+A: A: The city launched a new website in the fall of 2017.
+
+Q: Q: What is the phone number for the 311 Response Center in Pittsburgh?
+A: A: The phone number for the 311 Response Center in Pittsburgh is 412-255-2621.
+
+Q: Q: On what date is the new City of Pittsburgh website scheduled to launch?
+A: A: The new City of Pittsburgh website is scheduled to launch on October 22, 2024.
+
+Q: Q: How much did Welcoming Pittsburgh secure in grant funding for the COVID-19 Cash Assistance Program to serve vulnerable immigrant communities?
+A: A: Welcoming Pittsburgh secured $500,000 in grant funding for the COVID-19 Cash Assistance Program to serve vulnerable immigrant communities.
+
+Q: Q: How much did Welcoming Pittsburgh secure in a grant for the COVID-19 Cash Assistance Program?
+A: A: Welcoming Pittsburgh secured a $500,000 grant for the COVID-19 Cash Assistance Program to serve vulnerable immigrant communities.
+
+Q: Q: What phone number can be called to connect Veterans with Food Resources?
+A: A: 412-481-8200 can be called to connect Veterans with Food Resources.
+
+Q: Q: What is the phone number for the American Foundation for Suicide Prevention Hotline?
+A: A: The phone number for the American Foundation for Suicide Prevention Hotline is 1-800-273-8255.
+
+Q: Q: What is the maximum amount of an interest-free loan provided by the Hebrew Free Loan Association of Pittsburgh Coronavirus Financial Bridge Loan Program?
+A: A: The Hebrew Free Loan Association of Pittsburgh Coronavirus Financial Bridge Loan Program provides interest-free loans of up to $5,000.
+
+Q: Q: What is the address of the City-County Building in Pittsburgh, PA?
+A: A: The address of the City-County Building is 414 Grant St, Pittsburgh, PA 15219.
+
+Q: Q: What is the launch date of the new City of Pittsburgh website?
+A: A: The new City of Pittsburgh website is scheduled to launch on October 22, 2024.
+
+Q: Q: When is the new City of Pittsburgh website scheduled to be launched?
+A: A: The new City of Pittsburgh website is scheduled to be launched on October 22, 2024.
+
+Q: Q: When was the Pittsburgh Parks Conservancy founded?
+A: A: The Pittsburgh Parks Conservancy was founded in December 1996.
+
+Q: Q: What is the launch date of the new City of Pittsburgh website?
+A: A: The new City of Pittsburgh website is scheduled to launch on October 22, 2024.
+
+Q: Q: What are the office hours for the Pittsburgh Commission on Human Relations (PghCHR)?
+A: A: The office hours for the Pittsburgh Commission on Human Relations (PghCHR) are Monday-Friday 9am-5pm.
+
+Q: Q: What is the contact information for the Real Estate Tax Division to report incorrect charges on accounts?
+A: A: The Real Estate Tax Division can be reached by email at realestatetaxinfo@pittsburghpa.gov or by phone at (412-255-2525).
+
+Q: Q: When is the new City of Pittsburgh website scheduled to be launched?
+A: A: The new City of Pittsburgh website is scheduled to be launched on October 22, 2024.
+
+Q: Q: What is the scheduled launch date of the new City of Pittsburgh website?
+A: A: The new City of Pittsburgh website is scheduled to launch on October 22, 2024.
+
+Q: Q: What is the announced launch date of the new City of Pittsburgh website?
+A: A: The announced launch date of the new City of Pittsburgh website is October 22, 2024.
+
+Q: Q: In what season of 2024 will the Office of Film & Event Management (OFEM) launch a new permit management system called Eproval?
+A: A: The Office of Film & Event Management (OFEM) will launch a new permit management system called Eproval in the spring of 2024.
+
+Q: Q: What is the preferred method of contact for the Office of Film & Event Management to get the fastest response?
+A: A: The preferred method of contact for the fastest response is email.
+
+Q: Q: What is the address of the City-County Building in Pittsburgh, PA?
+A: A: The address of the City-County Building is 414 Grant St, Pittsburgh, PA 15219.
+
+Q: Q: What is the scheduled launch date for the new City of Pittsburgh website?
+A: A: The new City of Pittsburgh website is scheduled to launch on October 22, 2024.
+
+Q: Q: What is the maximum number of people allowed per skating session at the Schenley Park Ice Skating Rink for the 2024-2025 Skating Season?
+A: A: The maximum number of people allowed per skating session is 300.
+
+Q: Q: When is the new City of Pittsburgh website scheduled to launch?
+A: A: The new City of Pittsburgh website is scheduled to launch on October 22, 2024.
+
+Q: Q: In what year did Pittsburgh become known for manufacturing half of the nation's steel?
+A: A: Pittsburgh manufactured half of the nation's steel by 1911.
+
+Q: Q: How many distinct communities collectively create the culture of Pittsburgh?
+A: A: Ninety distinct communities collectively create the culture of Pittsburgh.
+
+Q: Q: What percentage of Pittsburgh's population consists of females?
+A: A: 51.9% of Pittsburgh's population consists of females.
+
+Q: Q: In what year was the Welcoming Pittsburgh initiative launched by Mayor William Peduto?
+A: A: The Welcoming Pittsburgh initiative was launched by Mayor William Peduto in 2014.
+
+Q: Q: When is the new City of Pittsburgh website scheduled to be launched?
+A: A: The new City of Pittsburgh website is scheduled to be launched on October 22, 2024.
+
+Q: Q: How can official, certified copies of legislation be obtained?
+A: A: Official, certified copies can be obtained in person from the City Clerk's Office.
+
+Q: Q: How long does the PGH Lab partnership program last?
+A: A: The PGH Lab partnership program lasts 6 months.
+
+Q: Q: What is the scheduled launch date of the new City of Pittsburgh website?
+A: A: The new City of Pittsburgh website is scheduled to launch on October 22, 2024.
+
+Q: Q: How can you register for public comment to speak at Council’s Regular and Standing Committees meetings?
+A: A: You can register by using the online Speaker Signup form, filling it out in its entirety, or by calling the City Clerk's office at (412) 255-2138.
+
+Q: Q: How can the public register to speak at Council's Regular and Standing Committees meetings?
+A: A: The public can register to speak by filling out the online Speaker Signup form or by calling the City Clerk's office at (412) 255-2138.
+
+Q: Q: At what time does registration close for Regular and Standing Committees meetings?
+A: A: Registration for Regular and Standing Committees meetings closes at 9 AM the morning of each meeting.
+
+Q: Q: What is the phone number to call for registration for public comment for the hearings?
+A: A: The phone number to call for registration is (412) 255-2138.
+
+Q: Q: On what date is the new City of Pittsburgh website scheduled to be launched?
+A: A: The new City of Pittsburgh website is scheduled to be launched on October 22, 2024.
+
+Q: Q: On what date is the new City of Pittsburgh website scheduled to be launched?
+A: A: The new City of Pittsburgh website is scheduled to be launched on October 22, 2024.
+
+Q: Q: What is the scheduled launch date for the new City of Pittsburgh website?
+A: A: The new City of Pittsburgh website is scheduled to launch on October 22, 2024.
+
+Q: Q: On what date is the new City of Pittsburgh website scheduled to be launched?
+A: A: The new City of Pittsburgh website is scheduled to be launched on October 22, 2024.
+
+Q: Q: On what date is the new City of Pittsburgh website scheduled to be launched?
+A: A: The new City of Pittsburgh website is scheduled to be launched on October 22, 2024.
+
+Q: Q: When is the new City of Pittsburgh website scheduled to be launched?
+A: A: The new City of Pittsburgh website is scheduled to be launched on October 22, 2024.
+
+Q: Q: When is the new City of Pittsburgh website scheduled to launch?
+A: A: The new City of Pittsburgh website is scheduled to launch on October 22, 2024.
+
+Q: Q: What is the purpose of the City of Pittsburgh's Snow Angels Program?
+A: A: The purpose of the City of Pittsburgh's Snow Angels Program is to pair older residents and residents with disabilities with nearby neighbors who volunteer to assist them with snow removal on their sidewalks and walkways.
+
+Q: Q: What is the minimum age requirement for neighbors to request a Snow Angel without having a physical disability?
+A: A: The minimum age requirement for neighbors to request a Snow Angel without having a physical disability is 62 years old.
+
+Q: Q: What may happen to your account if you fail to provide accurate information?
+A: A: Your account may result in immediate termination of your account on our service.
+
+Q: Q: What license applies to original content submitted or posted on the site?
+A: A: The original content submitted or posted on the site is made available under the Creative Commons Attribution-ShareAlike 4.0 Australian License.
+
+Q: Q: How can users of the Plow Tracker 2.0 navigate to view their specific street on the map?
+A: A: Users of the Plow Tracker 2.0 can navigate to their street by zooming in on the map or selecting their street from the drop-down menu located below the history display buttons.
+
+Q: Q: What type of deicing material is Public Works using for the 2018-19 winter weather season?
+A: A: Public Works is treating roads with a new rock salt made of Magnesium Chloride for the 2018-19 winter weather season.
+
+Q: Q: In what year did the new Right to Know Law take effect in the Commonwealth of Pennsylvania?
+A: A: The new Right to Know Law took effect in the Commonwealth of Pennsylvania on January 1, 2009.
+
+Q: Q: How many additional days can the City take to process a right to know request without the written consent of the Requester?
+A: A: The City cannot take more than thirty additional days without the written consent of the Requester.
+
+Q: Q: How long does the appeals officer have to issue a decision after receiving an appeal?
+A: A: The appeals officer has thirty days to issue a decision after receiving the appeal.
+
+Q: Q: What will the City of Pittsburgh do with personally identifying information sent to them through an electronic mail message or form?
+A: A: The City of Pittsburgh will only use the personally identifiable information to respond to the request and analyze trends.
+
+Q: Q: On what date is the new City of Pittsburgh website scheduled to launch?
+A: A: The new City of Pittsburgh website is scheduled to launch on October 22, 2024.
+
+Q: Q: What is the email address to contact for a free translation of a press release?
+A: A: The email address to contact for a free translation of a press release is CALA@Pittsburghpa.gov.
+
+Q: Q: When is the new City of Pittsburgh website scheduled to be launched?
+A: A: The new City of Pittsburgh website is scheduled to be launched on October 22, 2024.
+
+Q: Q: When is the new City of Pittsburgh website scheduled to be launched?
+A: A: The new City of Pittsburgh website is scheduled to be launched on October 22, 2024.
+
+Q: Q: What is the scheduled launch date of the new City of Pittsburgh website?
+A: A: The new City of Pittsburgh website is scheduled to launch on October 22, 2024.
+
+Q: Q: What is the launch date of the new City of Pittsburgh website?
+A: A: The new City of Pittsburgh website is set to launch on October 22, 2024.
+
+Q: Q: What is the scheduled launch date of the new City of Pittsburgh website?
+A: A: The new City of Pittsburgh website is scheduled to launch on October 22, 2024.
+
+Q: Q: Who should be contacted for Labor Compliance issues and questions related to construction and improvements?
+A: A: Kelly Russell at kelly.russell@pittsburghpa.gov or 412-255-2667 should be contacted for Labor Compliance issues and questions related to construction and improvements.
+
+Q: Q: What is the term of office for the City Controller in the City of Pittsburgh?
+A: A: The term of office for the City Controller is four years.
+
+Q: Q: In what year was the cornerstone of a new City Hall laid at Smithfield Street and Oliver Avenue?
+A: A: The cornerstone of a new City Hall was laid at Smithfield Street and Oliver Avenue in 1869.
+
+Q: Q: In what year did the construction of the City-County Building begin?
+A: A: The construction of the City-County Building began in 1915.
+
+Q: Q: In what year was the official statue of Sir William Pitt gifted to Pittsburgh from Sir Charles Wakefield Baronet, the former Lord Mayor of London?
+A: A: The official statue of Sir William Pitt was gifted to Pittsburgh in 1922.
+
+Q: Q: In what year was the Supreme Courtroom completed?
+A: A: The Supreme Courtroom was completed in 1917.
+
+Q: Q: When is the new City of Pittsburgh website scheduled to be launched?
+A: A: The new City of Pittsburgh website is scheduled to be launched on October 22, 2024.
+
+Q: Q: What is the Earned Income Tax rate in the City of Pittsburgh?
+A: A: The Earned Income Tax rate in the City of Pittsburgh is 3%, with 1% going to the City and 2% going to the School district.
+
+Q: Q: How is payroll expense attributable to the City of Pittsburgh computed for employers whose employees work partly within and partly outside of the city?
+A: A: It is computed by using the percentage of total number of working hours employed within the City of Pittsburgh compared to the total number of hours employed (within and outside) the City for each individual employee.
+
+Q: Q: What is the due date for employers to file quarterly reports with the City Treasurer?
+A: A: The due date for employers to file quarterly reports with the City Treasurer is 30 days after the quarter end for the prior quarter's activity.
+
+Q: Q: What is the maximum amount of Local Services Tax that can be withheld by all employers from a particular employee?
+A: A: No more than $52 in Local Services Tax can be withheld by all employers from a particular employee.
+
+Q: Q: In what year was the referendum approved that amended the City of Pittsburgh Home Rule Charter to establish a trust fund for the improvement of the City's parks?
+A: A: The referendum was approved in 2019.
+
+Q: Q: What is the deadline for filing monthly reports with the City Treasurer?
+A: A: The deadline for filing monthly reports with the City Treasurer is on or before the 15th day of the following month.
+
+Q: Q: What is the total tax rate for City and School District residents?
+A: A: City and School District residents pay a total tax rate of 3% (1% city tax and 2% school tax).
+
+Q: Q: What is the tax rate for annual gross receipts for most institutions in Pittsburgh?
+A: A: The tax rate is six mills on each dollar of annual gross receipts, which equals $6.00 per $1,000 or 6/10 of 1%.
+
+Q: Q: At what phone number can you contact for additional information on the Institution and Service Privilege Tax?
+A: A: Additional information can be obtained by calling 412-255-2525.
+
+Q: Q: What percentage of the total donation or contribution is used to determine the established price for amusement when admission is obtained by a donation?
+A: A: 25% of the total donation, contribution, and other monetary charge.
+
+Q: Q: In what year was the Amusement Tax first levied?
+A: A: The Amusement Tax was first levied in 1947.
+
+Q: Q: What is the primary purpose of the City of Pittsburgh Zoning Code?
+A: A: The primary purpose of the City of Pittsburgh Zoning Code is to regulate land use and activities within the City boundaries, allowing property owners the reasonable use of their property while not being detrimental to abutting properties or to the neighborhood.
+
+Q: Q: What is the phone number to contact for additional information about dog licenses in the City of Pittsburgh?
+A: A: The phone number to contact for additional information about dog licenses is 412-255-2967.
+
+Q: Q: What is the scheduled launch date of the new City of Pittsburgh website?
+A: A: The new City of Pittsburgh website is scheduled to launch on October 22, 2024.
+
+Q: Q: What is the phone number to contact the DOMI office for special accommodation or questions?
+A: A: The phone number to contact the DOMI office is 412-255-2370.
+
+Q: Q: When is the new City of Pittsburgh website scheduled to be launched?
+A: A: The new City of Pittsburgh website is scheduled to be launched on October 22, 2024.
+
+Q: Q: What is the address of the City-County Building in Pittsburgh, PA?
+A: A: The City-County Building is located at 414 Grant St, Pittsburgh, PA 15219.
+
+Q: Q: What is the launch date of the new City of Pittsburgh website?
+A: A: The new City of Pittsburgh website is scheduled to launch on October 22, 2024.
+
+Q: Q: What is the launch date of the new City of Pittsburgh website?
+A: A: The new City of Pittsburgh website is scheduled to launch on October 22, 2024.
+
+Q: Q: In what year was the Pittsburgh Parks Conservancy founded?
+A: A: The Pittsburgh Parks Conservancy was founded in December 1996.
+
+Q: Q: What is the launch date of the new City of Pittsburgh website?
+A: A: The new City of Pittsburgh website is set to launch on October 22, 2024.
+
+Q: Q: What is the phone number to call for after-hours emergencies related to Animal Care & Control?
+A: A: The phone number to call for after-hours emergencies is 412-255-2935.
+
+Q: Q: When is the new City of Pittsburgh website scheduled to launch?
+A: A: The new City of Pittsburgh website is scheduled to launch on October 22, 2024.
+
+Q: Q: What is the launch date of the new City of Pittsburgh website?
+A: A: The new City of Pittsburgh website is scheduled to launch on October 22, 2024.
+
+Q: Q: What is the purpose of the Catapult Program in Pittsburgh?
+A: A: The Catapult Program assists start-up minority and women businesses succeed.
+
+Q: Q: What is the launch date of the new City of Pittsburgh website?
+A: A: The new City of Pittsburgh website is scheduled to launch on October 22, 2024.
+
+Q: Q: What is the scheduled launch date of the new City of Pittsburgh website?
+A: A: The new City of Pittsburgh website is scheduled to launch on October 22, 2024.
+
+Q: Q: How long does it typically take for a business to be registered after submitting the New Business Registration form online?
+A: A: It typically takes up to 5-10 business days for a business to be registered after submitting the New Business Registration form online.
+
+Q: Q: What is the purpose of home rule for the City of Pittsburgh?
+A: A: The purpose of home rule for the City of Pittsburgh is to allow the City to make decisions on its own without needing permission from the State Legislature in Harrisburg, allowing for a more flexible, efficient, and responsible government.
+
+Q: Q: When did the new Right to Know Law (RTKL) take effect in the Commonwealth of Pennsylvania?
+A: A: The new Right to Know Law (RTKL) took effect on January 1, 2009.
+
+Q: Q: What is the address of the City-County Building in Pittsburgh, Pennsylvania?
+A: A: The City-County Building is located at 414 Grant Street, Pittsburgh, PA 15219.
+
+Q: Q: When is the new City of Pittsburgh website scheduled to be launched?
+A: A: The new City of Pittsburgh website is scheduled to be launched on October 22, 2024.
+
+Q: Q: On what date is the new City of Pittsburgh website scheduled to be launched?
+A: A: The new City of Pittsburgh website is scheduled to be launched on October 22, 2024.
+
+Q: Q: When is the new City of Pittsburgh website scheduled to be launched?
+A: A: The new City of Pittsburgh website is scheduled to be launched on October 22, 2024.
+
+Q: Q: What is the launch date of the new City of Pittsburgh website?
+A: A: The new City of Pittsburgh website is scheduled to launch on October 22, 2024.
+
+Q: Q: When is the new City of Pittsburgh website scheduled to be launched?
+A: A: The new City of Pittsburgh website is scheduled to be launched on October 22, 2024.
+
+Q: Q: When is the new City of Pittsburgh website scheduled to launch?
+A: A: The new City of Pittsburgh website is scheduled to launch on October 22, 2024.
+
+==================================================
+
+File: Tax_regulations.txt
+
+Q: Q: When did the revised City of Pittsburgh Payroll Tax Regulations become effective?
+A: A: The revised City of Pittsburgh Payroll Tax Regulations became effective on January 1, 2020.
+
+Q: Q: What constitutes a "Business Within the City" for tax purposes in these regulations?
+A: A: A person is deemed to be conducting business within the City if they engage, hire, employ, or contract with individuals, and also maintain a fixed place of business, own or lease real property, maintain stock of tangible personal property, conduct continuous solicitation, or utilize the streets of the City in connection with their business.
+
+Q: Q: What is considered compensation under the given regulations?
+A: A: Compensation under the given regulations includes salaries, wages, commissions, bonuses, net earnings, incentive payments, fees, tips, and any other form of remuneration earned for services rendered.
+
+Q: Q: What is considered a Guaranteed Payment in the context of partnership payments?
+A: A: Guaranteed Payments are payments to Partners by the Partnership for services that are determined without regard to the net income of the Partnership.
+
+Q: Q: What type of payments made to a retiring Partner under Section 736 of the Internal Revenue Code are considered?
+A: A: Payments made to a retiring Partner under Section 736 of the Internal Revenue Code are considered Passive Income.
+
+Q: Q: What is considered the Compensation of a Self-Employed individual for tax purposes?
+A: A: The Compensation of a Self-Employed individual is that person's Taxable Distributions from each separate business reported on Schedules C, E, or F of the Pennsylvania individual income tax Form PA-40, as well as any other non-employee Compensation.
+
+Q: Q: How are payroll expenses attributed to the City of Pittsburgh for employers whose employees work partly within and partly outside the city?
+A: A: The payroll expenses are attributed based on the percentage of total working hours employed within the City of Pittsburgh compared to the total working hours employed within and outside the city for each individual employee.
+
+Q: Q: What is the rate of the Payroll Tax levied on employers in the City of Pittsburgh?
+A: A: The rate of the Payroll Tax is fifty-five hundredths of a percent (.55% or .0055) of Payroll Expense.
+
+Q: Q: When is the final return due for a person who discontinues business during any tax quarter?
+A: A: The final return is due ten (10) days after the discontinuation of Business.
+
+Q: Q: When is the first quarterly return for the Payroll Tax due, and what months of Payroll Expense does it cover?
+A: A: The first quarterly return for the Payroll Tax is due on May 31, and it covers the Payroll Expense during the months of January, February, and March of the current year.
+
+Q: Q: At what rate of interest per annum will be added to the unpaid tax if it is not paid when due?
+A: A: Interest at the rate of six percent (6%) per annum will be added to the unpaid tax if it is not paid when due.
+
+Q: Q: How long must Taxpayers and Employers liable for the Payroll Tax preserve their records?
+A: A: Taxpayers and Employers liable for the Payroll Tax must preserve their records for a period of not less than three (3) years from the filing date or due date, whichever is later.
+
+Q: Q: How long after a return is due or filed must a suit be brought to recover unpaid taxes if a return has been filed but no tax paid?
+A: A: A suit to recover unpaid taxes must be filed within three (3) years after the return was due or filed, whichever is later.
+
+Q: Q: What is the maximum fine for an employer who willfully makes any false or untrue statement on their return?
+A: A: The maximum fine is $2,000.
+
+Q: Q: How long does the Treasurer have to issue its decision after receiving a complete and accurate petition form?
+A: A: The Treasurer has sixty (60) days to issue its decision after receiving a complete and accurate petition form.
+
+Q: Q: Within what timeframe must a written request for a refund be filed with the Department of Finance for amounts paid due to an underpayment notice?
+A: A: A written request for a refund must be filed with the Department of Finance within one (1) year of the date of the payment.
+
+Q: Q: What is the amusement tax rate for a $8.00 admission charge at establishments such as roof gardens, night clubs, cabarets, bars, breweries, and restaurants?
+A: A: The amusement tax rate for a $8.00 admission charge at these establishments is $0.40, which is 5% of the admission charge.
+
+Q: Q: What is the section number for the article discussing Administration and Enforcement?
+A: A: The section number for the article discussing Administration and Enforcement is SECTION 401.
+
+Q: Q: What is specifically excluded from the definition of "amusement" in the given regulations?
+A: A: The definition of "amusement" specifically excludes any Exempt Amusement or any amusement located outside the City limits.
+
+Q: Q: How is the established price for amusement calculated when admission is obtained by donation to an Institution of Purely Public Charity?
+A: A: The established price for amusement is calculated as twenty-five (25%) percent of the total donation, contribution, and other monetary charge.
+
+Q: Q: When did the exemption for Exempt Performing Arts Production, where the Producer is an Institution of Purely Public Charity, begin?
+A: A: The exemption for Exempt Performing Arts Production began in 2008.
+
+Q: Q: What is considered a "Person" under the given definitions?
+A: A: A "Person" is considered to be a corporation, partnership, business trust, association, estate, trust, foundation, or natural person.
+
+Q: Q: How many days can a temporary amusement be conducted in the City?
+A: A: A temporary amusement can be conducted in the City for a period of time not exceeding thirty (30) days.
+
+Q: Q: What must be displayed at all times at the places for which an amusement permit is issued?
+A: A: The amusement permit must be displayed conspicuously at the places for which it is issued.
+
+Q: Q: What is the tax rate imposed on patrons of any amusement in the City of Pittsburgh?
+A: A: The tax rate imposed on patrons of any amusement in the City of Pittsburgh is five percent (5%) of admission fees.
+
+Q: Q: What is the rate of tax imposed on the patron of any amusement for the privilege of attending or engaging in any amusement?
+A: A: The rate of tax imposed on the patron of any amusement is five (5%) percent of the established price charged the general public or a limited or selected group thereof.
+
+Q: Q: How is the Amusement Tax calculated when food and drink are served and there is no fixed charge for admission?
+A: A: The Amusement Tax is calculated as 5% of 10% of the total amount paid for food and drink.
+
+Q: Q: Who is liable for the tax on reduced admission to a place of amusement?
+A: A: A bona fide employee of the management of the theatre or other place is liable for the tax on the reduced price if admitted at a reduced rate.
+
+Q: Q: By what date must every Producer, except as otherwise provided, transmit a monthly report of tax collected?
+A: A: Every Producer must transmit a monthly report of tax collected by the fifteenth day of each month.
+
+Q: Q: How is the admission charge calculated when an amusement is included in the price of food and drink?
+A: A: The admission charge equals the amount paid for food and drink times ten percent.
+
+Q: Q: Is a movie theater considered a Performing Art?
+A: A: No, a movie theater is not considered a Performing Art because it is not a live performance.
+
