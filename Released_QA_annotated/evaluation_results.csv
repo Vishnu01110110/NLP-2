@@ -1,0 +1,1396 @@
+F1 Score,Recall,Exact Match,Prediction,Reference,Question
+0.4,0.5,False,"Federal Reserve Bank
+","PNC Bank.
+","What bank, which is the 5th largest in the US, is based in Pittsburgh?"
+0.0,0.0,False,"no
+","446 bridges.
+",How many bridges does Pittsburgh have?
+1.0,1.0,True,"General John Forbes
+","General John Forbes.
+",Who named the city of Pittsburgh?
+0.0,0.0,False,"Pittsburgh Sports Museums
+","Point State Park.
+",At what park do the three rivers converge in Pittsburgh?
+0.6666666666666666,0.5,False,"90
+","90 neighborhoods.
+",How many neighborhoods does Pittsburgh have?
+0.0,0.0,False,"Fifth Avenue
+","Bloomfield.
+",What Pittsburgh neighborhood is also known as Little Italy?
+0.9090909090909091,0.8333333333333334,False,"University of Pittsburgh Medical Center
+","University of Pittsburgh Medical Center (UPMC).
+",What is the largest employer in Pittsburgh?
+0.0,0.0,False,"Blue Archer
+","Mac Miller (""Frick Park Market"").
+",What Pittsburgh rapper has an album title referencing Frick Park?
+0.0,0.0,False,"unanswerable
+","The polio vaccine.
+",What famous vaccine was developed at University of Pittsburgh in 1955?
+1.0,1.0,True,"Smithfield Street Bridge
+","Smithfield Street Bridge.
+",What Pittsburgh bridge was the first lenticular truss bridge?
+0.0,0.0,False,"Pittsburgh
+","Wuhan.
+",What city in China is a sister city of Pittsburgh?
+0.0,0.0,False,"April 22, 1794
+","November 27, 1758.
+",What day was Pittsburgh founded?
+0.8,0.6666666666666666,False,"William Pitt
+","William Pitt the Elder.
+",Who is Pittsburgh named after?
+0.0,0.0,False,"Luke Ravenstahl
+","Ebenezer Denny.
+",Who was Pittsburgh's first mayor?
+0.0,0.0,False,"Luke Ravenstahl
+","Sophie Masloff.
+",Who was Pittsburgh's first (and only) female mayor?
+0.5,0.3333333333333333,False,"1933
+","July 8, 1933.
+",What day were the Pittsburgh Steelers founded?
+0.5,0.5,False,"Pittsburgh Steelers
+","Pittsburgh Pirates.
+",Which sports team is the oldest professional sports team in Pittsburgh?
+1.0,1.0,True,"Andy Warhol
+","Andy Warhol.
+",What famous American artist has a museum dedicated to his work in Pittsburgh?
+0.0,0.0,False,"Diplodocus carnegii
+","Dippy the Dinosaur.
+",What is the name of the dinosaur statue outside the Carnegie Museums in Oakland?
+0.0,0.0,False,"Regent Square
+","Beechview (Canton Avenue).
+",What Pittsburgh neighborhood is home to the steepest street in the US?
+0.6666666666666666,1.0,False,"5 percent
+","5%.
+",What is the amusement tax rate in Pittsburgh?
+1.0,1.0,True,"No
+","No.
+","Based on the definition of a Performing Art in the Pittsburgh tax code, is admissions to a movie theater considered a Performing Art?"
+0.5,0.8333333333333334,False,"TREASURER HEARINGS TREASURER – CITY OF PITTSBURGH 414 GRANT ST PITTSBURGH PA 15219 -2476
+","414 Grant Street, Pittsburgh, PA 15219.
+",Where should tax-related petitions to the Treasurer of Pittsburgh be mailed to?
+0.8,0.6666666666666666,False,"60 days
+","Within 60 days.
+",Within what time frame shall the Treasurer of Pittsburgh respond to a tax-related petition?
+0.0,0.0,False,"MAY 31
+","April 30.
+","After 2016, when is the payroll tax for the first quarter due?"
+0.5,1.0,False,"at least thirty ( 30) calendar days
+","30 days.
+","Under the Pittsburgh payroll expense tax regulations, how long does a Taxpayer have to respond to audit notices?"
+0.0,0.0,False,"twenty -five (25%)
+","$2,000.
+",What is the maximum fine for making a false statement on a tax return in Pittsburgh?
+0.22222222222222224,0.5,False,"April 15t h of eve ry year
+","April 15.
+","Except for new businesses, when are both the tax return and payment due in Pittsburgh?"
+0.0,0.0,False,"City-County Building
+","414 Grant Street, Pittsburgh, PA 15219.
+",At what address can forms for tax returns be obtained in the city of Pittsburgh?
+0.5,0.3333333333333333,False,"$52
+","$52 per year.
+",How much is the Local Services Tax in Pittsburgh?
+1.0,1.0,True,"37.5%
+","37.5%.
+",What is the parking tax rate in the city of Pittsburgh?
+0.0,0.0,False,"Deputy Chief of Staff
+","Jake Pawlak.
+",Who is the current chief of staff of the mayor of the city of Pittsburgh?
+0.0,0.0,False,"Jennifer Gula
+","Doug Anderson.
+",Who is the current director of finance of the city of Pittsburgh?
+0.0,0.0,False,"22326,860
+","$731 million.
+",What is the projected total revenue for the city of Pittsburgh in 2025?
+0.0,0.0,False,"$ 714,214,923
+","$663 million.
+",What was Pittsburgh's total revenue in 2021?
+0.0,0.0,False,"24.1
+","22%.
+","In 2024, what percentage of the projected total revenue will be non-tax revenue?"
+0.0,0.0,False,"654,570
+","$121 million.
+","In 2022, how much did the city of Pittsburgh spend on the Bureau of Police?"
+0.0,0.0,False,"500000
+","$32 million.
+","In 2022, how much did the city of Pittsburgh spend on Parks and Recreation?"
+0.0,0.0,False,"regularly
+","Every two years.
+",How often is the City Clerk elected by members of the Pittsburgh City Council?
+0.0,0.0,False,"137,279
+","$142,919.
+",How much did the Fire Chief in Pittsburgh make in 2023?
+0.0,0.0,False,"Tom Borrow
+","David McCarroll.
+",Who is the concertmaster of the Pittsburgh Symphony Orchestra?
+0.0,0.0,False,"Sean Elliott
+","Erina Laraby-Goldwasser.
+",Who is the acting principal violist of the Pittsburgh Symphony Orchestra
+0.0,0.0,False,"Annette Gordon-Reed
+","Micah Howard.
+",Who is the principal bassist of the Pittsburgh Symphony Orchestra
+0.0,0.0,False,"Melia P. Tourangeau
+","Joann Zajac.
+",Who is the assistant librarian of the Pittsburgh Symphony Orchestra
+0.22222222222222224,0.25,False,"one hour and 15 minutes
+","1 hour before the performance.
+",When do doors open before performances for concerts at the Pittsburgh Symphony for classical concerts?
+0.2857142857142857,0.16666666666666666,False,"No
+","No, but business casual is recommended.
+",Is there an official dress code for Heinz Hall?
+0.13333333333333333,0.3333333333333333,False,"Jealousy, two-timing, and revenge unite the back-to-back tragedies of Cavalleria Rusticana and Pagliacci
+","""Strauss and Puccini.""
+","What two operas are being performed at the Benedum Center on Nov 9, 12, 15, and 17?"
+1.0,1.0,True,"Madama Butterfly
+","""Madama Butterfly.""
+",What opera is being performed by an all-Japanese and Japanese American creative team at the Benedum Center in March 2025?
+0.0,0.0,False,"Antony Walker
+","Christopher Hahn.
+",Who is the current leader of the Pittsburgh Opera?
+1.0,1.0,True,"Antony Walker
+","Antony Walker.
+",Who is the current music director of the Pittsburgh Opera?
+1.0,1.0,True,"James Lesniak
+","James Lesniak.
+",Who is the current resident pianist for the Pittsburgh Opera?
+0.0,0.0,False,"Pittsburgh
+","Benedum Center.
+",Where does the Pittsburgh Opera perform?
+0.4444444444444444,0.3333333333333333,False,"30 - 45 minutes
+","At least 30 minutes before the show.
+",What is the suggested time to arrive before a show at the Pittsburgh Opera?
+0.0,0.0,False,"Apr 5, 2025 at 7:30 PM
+","October 25-27, 2024.
+","What dates is ""Peter Pan"" by the Pittsburgh Ballet Theater playing at the Benedum Center?"
+0.0,0.0,False,"1899
+","1984.
+",When was the Pittsburgh Cultural Trust founded?
+0.0,0.0,False,"0
+","14 square blocks.
+",How many square blocks is the Pittsburgh Cultural District?
+0.11764705882352941,0.2,False,"Mon., Wed., Fri.-Sun. 10 a.m.–5 p.m. Thurs.: 10 a.m.–8 p.m.; Closed Tuesdays
+","Wednesday-Saturday, 11 AM - 6 PM.
+",What are the gallery hours for The Galleries at the Pittsburgh Cultural Trust?
+0.0,0.0,False,"April 24, 2021 - November 28, 2021
+","October 11, 2024 - January 12, 2025.
+",What are the dates for Monument Eternal: Le’Andra LeSeur at the Wood Street Gallery?
+0.0,0.0,False,"412-281-0912 ext. 3
+","412-456-6666.
+",What number can you call to purchase Cultural Trust event tickets?
+0.0,0.0,False,"unanswerable
+","$1 per ticket.
+",What is the reprint fee per ticket for Cultural Trust event tickets?
+0.0,0.0,False,"no suggestions
+","2002.
+",What year did Little Italy Days start?
+0.4,0.3333333333333333,False,"January 13
+","January 6, 2025.
+",On what date does Pittsburgh Restaurant Week Winter 2025 begin?
+0.3333333333333333,0.3333333333333333,False,"Sunday, January 19
+","January 12, 2025.
+",When does Pittsburgh Restaurant Week Winter 2025 end?
+1.0,1.0,True,"Downtown Pittsburgh
+","Downtown Pittsburgh.
+",What is the location of The UPMC Rink at PPG Place?
+1.0,1.0,True,"2001
+","2001.
+",In what year did the UPMC Rink at PPG Place become a staple holiday attraction in Downtown Pittsburgh?
+0.4545454545454545,0.7142857142857143,False,"the rich culture of Ireland and its unique ties to the Burgh through music, food and dance
+","A celebration of Irish culture, music, and dance.
+",What type of celebration is the Pittsburgh Irish Festival?
+0.2,0.4,False,"Landing area is designed just for them with Irish arts, crafts and games to play
+","Storytelling, crafts, and Gaelic sports.
+","Besides live music and dance, what activities are offered for children at the Pittsburgh Irish Festival?"
+0.0,0.0,False,"1854
+","1903.
+",What year was the Pennsylvania Railroad Station opened?
+0.3333333333333333,0.3333333333333333,False,"Pittsburgh, PA 15213
+","Strip District, Pittsburgh.
+",Where is St. Stanislaus Kostka Church located?
+0.0,0.0,False,"Eastern Orthodox
+","Romanesque and Baroque Revival.
+",What architectural styles are reflected in St. Stanislaus Kostka Church?
+0.15384615384615383,0.3333333333333333,False,"The Allegheny County Courthouse is located on the Allegheny County Courthouse Bridge
+","The ""Bridge of Sighs.""
+",What is the name of the bridge connecting the Allegheny County Courthouse to the prison?
+0.0,0.0,False,"not enough information
+","36 feet tall.
+",How tall are the columns at the Mellon Institute of Industrial Research?
+0.0,0.0,False,"unanswerable
+","1882.
+",In what year did the original Allegheny County Courthouse burn down?
+0.0,0.0,False,"1967
+","1900.
+",In what year was Carnegie Mellon University founded?
+0.0,0.0,False,"not enough information
+","Over 1,400.
+",How many faculty members are there at Carnegie Mellon University?
+0.0,0.0,False,"unanswerable
+","Java.
+",What programming language was invented by CMU alumnus James Gosling?
+0.0,0.0,False,"1899
+","1914.
+",In what year was the first U.S. degree in drama awarded by CMU?
+1.0,1.0,True,"Mount Washington
+","Mount Washington.
+",What neighborhood in Pittsburgh is known for having the best view of the city?
+1.0,1.0,True,"Hill District
+","Hill District.
+",Which Pittsburgh neighborhood is recognized for its historical black culture and change?
+0.0,0.0,False,"Pittsburgh, PA 15222
+","Shadyside (Calvary Episcopal Church).
+",Where is Pittsburgh’s largest Episcopal church located?
+0.0,0.0,False,"Millvale
+","Lawrenceville.
+",What neighborhood has a reimagined industrial mill town with breweries and local shopping?
+0.0,0.0,False,"North Shore
+","Oakland.
+",What Pittsburgh neighborhood features both world-class hospitals and museums?
+1.0,1.0,True,"Gateway to the West
+","""Gateway to the West.""
+",What nickname was given to Pittsburgh due to its strategic location?
+0.0,0.0,False,"Homewood
+","Heinz.
+",What Pittsburgh-based food manufacturer is known for their philanthropy?
+0.0,0.0,False,"680,000 people lived in the city proper in 1950
+","10th largest.
+",What was Pittsburgh’s rank in size among U.S. cities during the mid-1950s?
+0.0,0.0,False,"Marshall-Shadeland
+","Allentown.
+",What pittsburgh neighborhood is Dr. Tumblety’s Apothecary and Tasting Lounge located in?
+0.2857142857142857,0.16666666666666666,False,"Music
+","Music boxes and automatic musical instruments.
+",What unique collection is housed in the Bayernof Museum in pittsburgh?
+0.0,0.0,False,"Kennywood
+","The Zenith.
+",What is Pittsburgh's oldest vegan restaurant?
+0.0,0.0,False,"Duquesne
+","Western Penitentiary.
+",What abandoned state correctional facility is located at the end of one of Pittsburgh’s bike trails?
+0.0,0.0,False,"Carnegie Museum of Natural History
+","The Mattress Factory.
+","What is the name of the museum in Garfield that explores the relationship between culture, nature, and biotechnology?"
+0.8333333333333333,1.0,False,"Hunt Institute for Botanical Documentation, 5th Fl....
+","Hunt Institute for Botanical Documentation.
+",Where is the 17th International Exhibition of Botanical Art & Illustration held?
+0.3076923076923077,0.4,False,"43 artworks by 43 artists representing 19 countries
+","48 artists from 21 countries.
+",How many artists and countries are represented in the 17th International Exhibition of Botanical Art & Illustration?
+0.0,0.0,False,"gelatin silver
+","Watercolor.
+",What medium is used for the artwork 'Arisaema ringens' by Marianne Hazlewood featured in the 17th International Exhibition of Botanical Art & Illustration?
+0.0,0.0,False,"43
+","Over 1,200 artists.
+",How many botanical artists are recorded in the Catalogue of the International Exhibition of Botanical Art & Illustration database?
+0.6666666666666666,0.5,False,"40th
+","40th anniversary.
+",What anniversary does the 'Here to Stay: Celebrating 40 Years at the Architecture Archives' exhibition celebrate?
+0.8,0.6666666666666666,False,"Matt Lamanna
+","Dr. Matt Lamanna.
+",Who is the head paleontologist that guest-starred on Daniel Tiger’s Neighborhood?
+0.0,0.0,False,"not enough information
+","Over 1,500 specimens.
+",How many specimens are displayed in Hillman Hall at the Carnegie Museum of Natural History
+0.5,0.3333333333333333,False,"5,000
+","Over 5,000 objects.
+",How many objects from ancient Egypt does the Carnegie Museum of Natural History have in its collection?
+0.0,0.0,False,"80
+","30 objects.
+",How many objects are highlighted in The Stories We Keep: Conserving Objects from Ancient Egypt exhibit?
+0.3333333333333333,0.3333333333333333,False,"March 9, 2025
+","January 5, 2025.
+",When does The Stories We Keep: Conserving Objects from Ancient Egypt exhibit run until?
+0.0,0.0,False,"unanswerable
+","Con Alma.
+",Which Pittsburgh jazz club is located in the Strip District?
+0.0,0.0,False,"Mac Miller
+","Ahmad Jamal.
+",Which jazz pianist from Pittsburgh is known for their contributions to the jazz scene?
+0.0,0.0,False,"Mac Miller
+","Art Blakey.
+",Who is a famous Pittsburgh-born jazz drummer mentioned in the 'jazz heaven' band?
+0.0,0.0,False,"Strauss
+","Billy Strayhorn.
+",Which jazz composer from Pittsburgh is known for writing for the greats?
+0.0,0.0,False,"Barrel & Flow Fest
+","Pittsburgh International Jazz Festival.
+",What annual jazz festival takes place in downtown Pittsburgh every June?
+1.0,1.0,True,"$1 million
+","$1 million.
+",How much did Andrew Carnegie donate to establish a technical institute in Pittsburgh in 1900?
+0.0,0.0,False,"Merton Miller
+","Clifford Berry, in 1934.
+","Who was the first student to receive a doctorate from Carnegie Tech, and in what year?"
+0.6666666666666666,0.6666666666666666,False,"first IBM computer
+","The IBM 650 computer.
+",What significant technological advancement arrived at Carnegie Tech in 1956?
+1.0,1.0,True,"2017
+","2017.
+",When did Carnegie Mellon celebrate the 50th anniversary of the Carnegie Tech-Mellon Institute merger?
+0.0,0.0,False,"The Civil Rights Movement
+","The admission of women into all programs in 1970.
+",What major event in the mid-20th century marked a shift in gender inclusion at Carnegie Tech?
+0.0,0.0,False,"the History Center’s educator eNewsletter
+","The Humanities and Sciences Program.
+","What significant curriculum reform, launched in 1938, combined technical education with a broader understanding of society?"
+0.0,0.0,False,"Sunday, August 18
+","October 26, 2024.
+",On what date is Mitchell Tenpenny performing in Pittsburgh?
+1.0,1.0,True,"Heinz Hall
+","Heinz Hall.
+",Which hall is the Harry Potter and the Order of Phoenix Concert taking place?
+0.3333333333333333,0.3333333333333333,False,"Oct 26, 2024
+","November 15, 2024.
+",On what date is the Harry Potter and the Order of Phoenix Concert taking place?
+1.0,1.0,True,"Clearview Arena
+","Clearview Arena.
+",Where is the Lindenwood Lions vs Robert Morris Colonial's men's hockey match taking place?
+0.3333333333333333,0.3333333333333333,False,"October 15, 2024
+","November 2, 2024.
+",When on November 2024 are Montreal Canadiens facing Pittsburgh Penguins?
+1.0,1.0,True,"7:00 PM
+","7:00 PM.
+",What time does the Montreal Canadiens vs Pittsburgh Penguins match start on November the 2nd?
+0.0,0.0,False,"Byham Theater
+","Benedum Center.
+",Which theater is the Beauty and Beast being performed in November?
+1.0,1.0,True,"PPG Paints Arena
+","PPG Paints Arena.
+",Where are Dallas Stars playing Pittsburgh Penguins ?
+0.28571428571428575,0.3333333333333333,False,"Sunday, Oct. 6, 2024
+","November 27, 2024.
+",When are Dallas Stars playing Pittsburgh Penguins 
+0.0,0.0,False,"Pittsburgh Opera
+","Carnegie Music Hall of Oakland.
+",Where is Matteo Bocelli performing?
+0.0,0.0,False,"Sep/Oct Nov/Dec
+","December 12-15, 2024.
+",What dates in December is the Highmark Holiday Pops this year?
+0.2222222222222222,0.3333333333333333,False,"Oct 26, 2024 at 3:00 pm
+","October 27, 2024.
+",When is the Dandy Andy Warhol’s Queer History event?
+0.14285714285714288,0.3333333333333333,False,"10:25 am and ends on Oct 25, 2024 at 11:00 am
+","October 28, 2024.
+",When is the Coffee + connect event in October?
+0.8333333333333333,1.0,False,"David L. Lawrence Convention Center & The Westin Pittsburgh
+","David L. Lawrence Convention Center.
+",Which venue is the Taekwondo 2024 Fall Nationals taking place?
+0.0,0.0,False,"Oct. 23-26
+","November 16-17, 2024.
+",When is the Taekwondo 2024 Fall Nationals 2024?
+0.0,0.0,False,"Oct 13, 2024 at 7:00 pm
+","No information provided.
+",When is Billie Eilish's concert in Pittsburgh? 
+0.0,0.0,False,"Dec 14, 2024 at 7:30 pm
+","No information provided.
+",When is Justin Timberlake performing in Pittsburgh?
+0.5,0.5,False,"7 p.m.
+","7:00 PM.
+",What time of the day does the Haunted Pittsburgh Ghost Tour take place?
+1.0,1.0,True,"Stage AE
+","Stage AE.
+",What is the venue for the Steelers Tailgate?
+0.0,0.0,False,"Petersen Events Center
+","Acrisure Stadium.
+",Where is the Georgia Tech Yellow Jackets vs Panthers game taking place?
+0.0,0.0,False,"Jan 7, 2025 at 1:00 PM
+","November 16, 2024.
+",When is the Georgia Tech Yellow Jackets vs Panthers game taking place?
+0.5,0.3333333333333333,False,"2024
+","October 27, 2024.
+",When is the Goose concert in Pittsburgh?
+0.0,0.0,False,"day
+","Sunday.
+",What day of the week is the  Goose concert?
+0.5,0.3333333333333333,False,"2024
+","December 15, 2024.
+",When are the Steelers playing the Chiefs?
+0.0,0.0,False,"August Wilson African American Cultural Center
+","No information provided.
+",Who is moderating December's Lit Friday?
+0.0,0.0,False,"Theo Alcántara
+","Antony Walker.
+",Who is the director of Strauss and Puccini?
+1.0,1.0,True,"Benedum Center
+","Benedum Center.
+",Where can i watch Strauss and Puccini?
+0.0,0.0,False,"707 Gallery
+","Wood Street Galleries.
+","At which venue is ""Kim Bond: We Are Not Alone"" being held?"
+0.5,0.5,False,"Christopher Hahn
+","Christopher Wheeldon.
+",Who are the directors of MJ the musical?
+0.0,0.0,False,"Opera
+","MJ the Musical.
+",Which event is happening at the Benedum Center from November 19 to December 1?
+0.3333333333333333,0.3333333333333333,False,"Nov 20, 2024
+","October 25, 2024.
+",When is Chris Knight performing in Pittsburgh?
+0.0,0.0,False,"First Commonwealth Stage at Gross & Liberty
+","Thunderbird Café and Music Hall.
+",Where is Chris Knight performing?
+0.0,0.0,False,"Black
+","Public Serpents and Big Blitz.
+",Which bands are performing with Surfer Girl in Pittsburgh?
+0.0,0.0,False,"15203, Pittsburgh, PA
+","Thunderbird Café and Music Hall.
+",Where is the Surfer Girl concert taking place?
+0.0,0.0,False,"Twelfth Night: A Tropical Romp
+","Duquesne Dukes vs UC Irvine Anteaters men's basketball.
+",Which game is scheduled at UPMC Cooper Fieldhouse at 1 pm on December 21st?
+0.0,0.0,False,"Jan 8, 2025
+","December 21, 2024.
+",When are the Duquesne Dukes playing against the UC Irvine Anteaters?
+0.2222222222222222,0.3333333333333333,False,"Oct 31, 2024 at 7:00 pm
+","December 23, 2024.
+",When is the remaining Ducks vs. Penguins match in 2024?
+0.28571428571428575,0.3333333333333333,False,"Tue, Dec 10, 2024
+","December 7, 2024.
+",When is the Elvis Christmas show happening? 
+0.0,0.0,False,"unanswerable
+","November 28, 2024.
+",What is the date of the Thanksgiving Dinner Cruise?
+0.5,0.3333333333333333,False,"2024
+","November 18, 2024.
+",When is Amy Sedaris’s comedy show?
+0.0,0.0,False,"6 p.m.
+","90 minutes.
+","How long is the ""An Evening with Amy Sedaris"" show?"
+0.0,0.0,False,"Saturday
+","Sunday.
+",What day of the week is the Steelers vs. Chiefs game taking place?
+0.0,0.0,False,"Andy Warhol
+","William Thaw.
+",Who was the philanthropist who facilitated the opening of Pittsburgh's zoo and aquarium through his donations?
+0.5714285714285715,1.0,False,"Phipps Conservatory and Botanical Gardens
+","Phipps Conservatory.
+",Henry W. Phipps donated which conservatory to the city of Pittsburgh?
+1.0,1.0,True,"National Aviary
+","National Aviary.
+",What is the name of America's only independent bird sanctuary?
+1.0,1.0,True,"four
+","Four.
+",How many Carnegie Museums are there in Pittsburgh?
+0.0,0.0,False,"Carnegie Museums
+","The Andy Warhol Museum.
+",What is the largest musuem dedicated to a single artist?
+0.4,0.3333333333333333,False,"six miles
+","About 20 miles.
+",How far is the BayernHof Music Museum from downtown Pittsburgh?
+1.0,1.0,True,"Carnegie Science Center
+","Carnegie Science Center.
+",Which science center in Pittsburgh has interactive technology and science exhibits?
+0.0,0.0,False,"Western Pennsylvania
+","Senator John Heinz History Center.
+",Where is the Smithsonian affilliated regional history museum in Pittsbugh?
+0.0,0.0,False,"not enough information
+","1895.
+",In what year were both the museum for fine arts and natural history founded?
+1.0,1.0,True,"Heinz Hall
+","Heinz Hall.
+",Where does the Pittsburgh Symphony Orchestra perform?
+0.0,0.0,False,"5,000
+","More than 2,000.
+",Carnegie Museum of Natural History has more than how many objects from Ancient Egypt?
+0.0,0.0,False,"760 dinosaur fossils
+","More than 230.
+",How many original fossils are on display in the Dinosaurs in their Time exhibit at Carnegie Museum of Natural History?
+0.0,0.0,False,"Adam Vish
+","Mike Rabelo.
+",Who is the third base coach for the Pittsburgh Pirates?
+0.0,0.0,False,"15
+","30 minutes.
+",How many minutes after game time does the Pirates Main Ticket Office close on gameday Saturday and Sundays?
+0.6666666666666666,1.0,False,"spring 2001
+","2001.
+",When did PNC park open?
+0.0,0.0,False,"Justin Fields
+","Mike Sullivan.
+",Who is the quarterbacks coach for the Pittsburgh Steelers?
+0.0,0.0,False,"Oct 28, 2024
+","No information provided.
+",In which week are the Pittsburgh Steelers playing the New York Giants this season?
+1.0,1.0,True,"Acrisure Stadium
+","Acrisure Stadium.
+",Where is the Pittsburgh Steelers Hall of Honor dinner this year?
+0.0,0.0,False,"Captain
+","Center.
+",What position does Sydney Crosby play?
+0.0,0.0,False,"09.29.24
+","October 24, 2024.
+",When are the Pittsburgh Penguins playing Edmonton in October?
+1.0,1.0,True,"The Terrible Towel
+","Terrible Towel.
+",What is the name of the Pittsburgh Steelers' rally towel?
+0.5,0.5,False,"PNC Park
+","Exposition Park.
+",What was the Pirates' first home called?
+0.0,0.0,False,"Billy Cook
+","Willie Stargell.
+",Who holds the Pirates' franchise record for the most bases
+0.0,0.0,False,"2024
+","1902.
+",In which year did the Pirates achive 100 wins for the first time?
+0.0,0.0,False,"No
+","Chicago Cubs.
+",Who do the Pirates play for their 2025 season opener on March 27?
+0.0,0.0,False,"No
+","Nine.
+",Apart from the MLB wide retired number 42 how many Pirates jerseys have been retired?
+0.0,0.0,False,"Red Sox
+","Pittsburgh Pirates.
+",Which is the only team to have won a World Series with a Game 7 walk-off home run?
+0.5,0.3333333333333333,False,"20
+","20 consecutive seasons.
+",How many consecutive seasons did the Pirates post a losing record to set a record?
+0.0,0.0,False,"New England Patriots
+","Baltimore Ravens.
+",Who are the Steelers playing in the last week of the season?
+0.8,0.6666666666666666,False,"October 2024
+","October 28, 2024.
+",When is the Steelers' spooktacular event?
+1.0,1.0,True,"Steely McBeam
+","Steely McBeam.
+",What is the name of the Pittsburgh Steelers mascot?
+1.0,1.0,True,"Pittsburgh Steelers
+","Pittsburgh Steelers.
+",Which is the oldest franchise in the American Football Conference?
+0.16666666666666669,1.0,False,"The Steelers have played in eight Super Bowls, winning six of them
+","Six.
+",How many Super Bowls have the Steelers won?
+0.0,0.0,False,"no
+","Three.
+",How many primary rivals do the Steelers have?
+0.0,0.0,False,"Terrible Towel
+","Steelerettes.
+",What was the name of the Steelers cheerleading squad?
+0.0,0.0,False,"Roethlisberger
+","Terry Bradshaw.
+",Who won the first NFL MVP from the Steelers?
+1.0,1.0,True,"Montreal Canadiens
+","Montreal Canadiens.
+",Against which team this season are the Penguins giving out rally towels?
+1.0,1.0,True,"Pittsburgh Penguins
+","Pittsburgh Penguins.
+",Which is the first team to win back to back Stanley Cups in the salary cap era of the NHL?
+0.0,0.0,False,"unanswerable
+","Mike Lange.
+",Who was awarded the Foster Hewitt Memorial Award by the NHL Hall of Fame in 2001?
+0.0,0.0,False,"Malkin
+","Mario Lemieux.
+",Who has scored the most points in Penguins Franchise history?
+0.4,0.3333333333333333,False,"July 2025
+","July 19-21, 2024.
+",When was Picklesburgh 2024?
+0.0,0.0,False,"Boulevard of the Allies and PPG Place
+","Rachel Carson Bridge.
+",On which plaza was Picklesburgh 2024 held?
+0.75,0.75,False,"Pickle juice drinking competition
+","Pickle Juice Drinking Contest.
+",Name the new competition starting from Picklesburgh 2024.
+0.8571428571428571,0.75,False,"Specialty Food Festival
+","Best Specialty Food Festival.
+",On which category does Picklesburgh rank as the number one?
+0.0,0.0,False,"Fifth
+","Liberty Avenue.
+",On which avenue does Pittsburgh's Little Italy Days take place in 2024?
+0.28571428571428575,0.25,False,"UPMC Luna Garage
+","46th & Butler Street Garage.
+",Two free parking garages are available in the Little Italy Days. One is the parking garage at Liberty & Aspen. What is the other one?
+0.0,0.0,False,"Mini of Pittsburgh & First National Bank Stage at Cedarville & Liberty
+","Frank Viehland & Friends.
+","In Little Italy Days 2024, what entertainment was scheduled from 6 p.m. onThursday, Aug. 15?"
+0.0,0.0,False,"NOVEMBER 9-17
+","Saturday, Aug. 17 at 1 p.m.
+",When did the Miss Little Italy Pageant 2024 start?
+0.0,0.0,False,"7:00pm
+","2 hours earlier.
+",How many hours earlier was the gold ticket holder able to enter the Pittsburgh Taco Festival 2024?
+0.0,0.0,False,"no
+","Yes.
+",Did Yelp sponsor the Pittsburgh Taco Festival 2024?
+0.0,0.0,False,"Craig McCloud
+","info@pghtacofest.com.
+",Which email address can you contact about the Pittsburgh Taco Festival?
+0.0,0.0,False,"The Stacks at 3 Crossings
+","Strip District, Pittsburgh, PA.
+",Where was the Pittsburgh Taco Festival held?
+0.22222222222222224,0.2,False,"From Pitt Came the Split
+","The Great American Banana Split Celebration.
+","What is the event held in Latrobe, PA in August?"
+0.0,0.0,False,"Greater Latrobe-Laurel Valley Chamber of Commerce
+","Dole.
+",Which agricultural company sponsors the Great American Banana Split Celebration?
+0.0,0.0,False,"no
+","Yes.
+",Can you enjoy a bingo game in the Great American Banana Split Celebration in 2024?
+0.0,0.0,False,"250
+","5K.
+",What distance do you run in one of the events in the Great American Banana Split Celebration?
+0.0,0.0,False,"August 30
+","9:00 PM.
+",When does the soul food festival end each day in 2024?
+0.6666666666666665,0.6,False,"Stanwix and Wood streets
+","Stanwix Street and Wood Street.
+","In 2024, the soul food festival is held on Market Square and Boulevard of the Allies between what and what streets?"
+0.0,0.0,False,"DJ Kode Wred
+","The Bill Henry Band.
+","In Soul Food Festival 2024, who plays in the main stage from 6 pm on Aug. 30?"
+0.4,0.5,False,"DJ Tee Jay
+","DJ Selecta.
+","On Sunday during the Soul Food Festival 2024, who plays on the DJ stage from 2 pm?"
+1.0,1.0,True,"Allegheny Commons Park
+","Allegheny Commons Park.
+","In which place is Vegetarian and Vegan Food Festivals being held on Sept. 29, 2024?"
+0.0,0.0,False,"0
+","More than 40 businesses.
+",More than how many businesses participated Lawrenceville Cookie Tour 2024?
+0.4,0.3333333333333333,False,"Winter 2014
+","Summer and Winter.
+",In which seasons can you join Pittsburgh Restaurant Week?
+0.0,0.0,False,"431 Market St
+","The Clemente Bridge.
+","In Picklesburgh 2024, where can you find Millie's Homemade Ice Cream?"
+0.0,0.0,False,"PPG Place
+","The Pickle Market.
+","In Picklesburgh 2024, where can you find Cute as a Dumpling?"
+0.0,0.0,False,"Bobbing for Pickles
+","The Pickle Toss.
+","There were three Gherkin Games in Picklesburgh 2024: Pickle Juice Drinking, Pickle Eating, and what?"
+0.0,0.0,False,"You must be 21+ to consume/purchase alcohol and proper ID will be required.
+","No, the minimum age is 18.
+",Can you join a contest in Picklesburgh 2024 if you are 16?
+0.0,0.0,False,"10
+","Four consecutive years.
+",For how many consecutive years is Picklesburgh voted as the number 1 food festival in America?
+0.0,0.0,False,"Craig McCloud
+","James Rich.
+",Who founded the original Pittsburgh Taco Festival?
+0.13333333333333333,0.25,False,"Refunds will not be issued on any tickets for any reason
+","No, tickets are non-refundable.
+",Can you get any refund for 2024 Pittsburgh Taco Festival tickets?
+0.0,0.0,False,"no
+","Yes, it is pet-friendly.
+",Can you go to 2024 Pittsburgh Taco Festival with your pets?
+0.25,0.14285714285714285,False,"no
+","No, not all vendors accept credit cards.
+",Can you use credit cards at all vendors in 2024 Pittsburgh Taco Festival?
+0.4,0.3333333333333333,False,"August 9
+","August 5, 2024.
+",When did the early access of summer 2024 Pittsburgh Restaurant Week start?
+1.0,1.0,True,"2002
+","2002.
+",In which year did Little Italy Days start?
+0.4,0.25,False,"No
+","No, admission is free.
+",Do you need a ticket to join Little Italy Days 2024?
+0.0,0.0,False,"Kids (under 12)
+","14-19 age bracket.
+","If a high school student participates 5K Banana Run 2024, which age bracket will they be in?"
+0.0,0.0,False,"Featured Entertainer Lorem ipsum dolor sit amet, consectetur adipiscing elit
+","The Gemtones.
+",Who performed from 1pm to 2pm at Dollar Bank Stage in Banana Split Celebration 2024?
+0.0,0.0,False,"Picklesburgh 2025
+","Lil' Gherkins Kids' Zone.
+",What is the name of the kids activity area in Picklesburgh 2024?
+0.4,0.5,False,"10 ounce cans
+","10 ounces.
+",What is the size of Dill Pickle Flavored Peanuts at 306 Forbes Boutique in Picklesburgh 2024?
+0.0,0.0,False,"Bourbon
+","Vodka.
+",What is the base alchol of Pickle Sour at Barcadia in Picklesburgh 2024?
+0.0,0.0,False,"evening social programs
+","21+ Nights.
+",What type of specialized nights does the Carnegie Museum of Natural History offer for adults?
+0.0,0.0,False,"not enough information
+","Dr. Matthew Lamanna.
+","Which famous paleontologist from Carnegie Museum of Natural History guest starred on ""Daniel Tiger’s Neighborhood""?"
+0.0,0.0,False,"Diplodocus carnegii
+","Giganotosaurus.
+",What is the name of the predator dinosaur that was discovered in Patagonia by the Carnegie Museum of Natural History team?
+0.0,0.0,False,"-Carnegie Museum of Art
+","Super Science Saturdays.
+",What is the special event designed for children ages 5-12 at Carnegie Museum of Natural History called?
+0.0,0.0,False,"Helpful
+","Afternoon tea service.
+",What unique feature does the Cafe Carnegie offer alongside regular dining options?
+0.09523809523809525,0.1,False,"Artwork anyone can borrow and a dapper dinosaur with its own accessories
+","Participate in conservation activities and learn how artifacts are preserved.
+","What can visitors do in the new exhibit ""The Stories We Keep: Conserving Objects from Ancient Egypt"" at the Carnegie Museum of Natural History?"
+0.0,0.0,False,"roughly 5,000
+","Over 2,000 objects.
+","How many objects from Ancient Egypt does the Carnegie Museum of Natural History possess, as highlighted in their exhibit?"
+0.0,0.0,False,"The Inclusive Museum Community STEM Carnegie International Where Art & Science Meet
+","Hillman Hall of Minerals and Gems.
+",What exclusive gallery in the Carnegie Museum of Natural History features a large collection of gems and jewelry?
+0.0,0.0,False,"a.
+","Children ages 5-12.
+",Who does the Carnegie Museum of Natural History encourage to 'learn even more' during Super Science Saturdays with hands-on activities and craft stations?
+0.3333333333333333,0.3333333333333333,False,"March 9, 2025
+","January 5, 2025.
+","Until what date is ""The Stories We Keep: Conserving Objects from Ancient Egypt"" exhibit scheduled to continue?"
+0.08333333333333334,0.1111111111111111,False,"By land or water, on four wheels or two, tour and experience Pittsburgh first hand.
+","Walking tours, boat tours, bike rentals, and riverboat cruises.
+",What types of sightseeing options are available in Pittsburgh based on the mode of transportation?
+0.0,0.0,False,"The basic tour
+","Free walking tours.
+",What kind of guided tour is offered for free in Pittsburgh?
+0.2,0.16666666666666666,False,"Three Rivers Sightseeing Cruise
+","Gateway Clipper and Rivers of Steel.
+",Which riverboat options are mentioned for sightseeing in Pittsburgh?
+0.33333333333333337,0.2,False,"Segway
+","Segway tours and bike tours.
+",What alternative types of tours are available in Pittsburgh besides walking and boat tours?
+0.0,0.0,False,"Downtown
+","Pittsburgh’s architectural landmarks and historical sites.
+",What can one explore with the free walking tours in Pittsburgh?
+0.0,0.0,False,"a close view of the Downtown skyline and several of the city’s 446 bridges
+","Both offer riverboat sightseeing tours.
+",What feature does Rivers of Steel Riverboat share with Gateway Clipper in Pittsburgh?
+0.0,0.0,False,"Duquesne Incline
+","Historic neighborhoods like the Strip District and Lawrenceville.
+",What is one of the prominent neighborhood features mentioned for exploring in Pittsburgh?
+0.2222222222222222,0.125,False,"rivers
+","Three rivers for kayaking, paddleboarding, and boat tours.
+",What geographic feature does Pittsburgh uniquely offer for outdoor activities involving water?
+0.0,0.0,False,"Guided hikes
+","Walking and biking tours.
+",What type of tours can be enjoyed along Pittsburgh's riverfront trails?
+1.0,1.0,True,"Great Allegheny Passage
+","The Great Allegheny Passage.
+",On what trail can you travel from Pittsburgh to Washington D.C.?
+0.5,0.6666666666666666,False,"sculling, kayaking, canoeing and powerboating
+","Kayaking and paddleboarding.
+","Apart from golf, what other water sports can be enjoyed in Pittsburgh?"
+0.0,0.0,False,"Hartwood Acres Mansion
+","Point State Park.
+",What is the starting point of the Great Allegheny Passage in Pittsburgh?
+0.4615384615384615,0.6,False,"Coraopolis on the Ohio River to Clairton on the Monongahela
+","From Coraopolis to Clairton, PA.
+",Where does the Montour Trail connect from and to?
+0.0,0.0,False,"Official Guide
+","The Pocket Ranger App.
+",What app is recommended to download before visiting state parks and forests near Pittsburgh?
+0.0,0.0,False,"Authentic Experiences
+","Historical and architectural sightseeing.
+",For what type of sightseeing is Pittsburgh recognized?
+0.42857142857142855,0.42857142857142855,False,"On foot, by bike or in the water
+","By walking, biking, or using bike rentals.
+",How can one explore Pittsburgh trails?
+0.0,0.0,False,"Bicycle
+","Bike rentals and kayak rentals.
+",What type of rentals are available along the riverfront trails in Pittsburgh?
+1.0,1.0,True,"Gateway to the West
+","""Gateway to the West.""
+",What historical nickname was given to Pittsburgh reflecting its early significance?
+0.0,0.0,False,"Museums
+","Music festivals, art exhibitions, and theater performances.
+",What type of arts and culture events are suggested by the Visit Pittsburgh site to explore in the city?
+1.0,1.0,True,"The Andy Warhol Museum
+","The Andy Warhol Museum.
+",What specific museum is emphasized in promoting insight on a famous artist in Pittsburgh?
+0.5,0.5,False,"2024 Pittsburgh Insider's Guide
+","The official Visit Pittsburgh Guide.
+",What guide is suggested for tourists who want a comprehensive understanding of Pittsburgh's offerings?
+0.10526315789473685,0.14285714285714285,False,"the steel industry to become a leader in healthcare, education, technology, and financial services
+","The transition from industrial heritage to modern innovations.
+","For those interested in Pittsburgh's architectural developments, what transition is noted?"
+0.33333333333333337,0.2,False,"jazz
+","Pittsburgh’s jazz and blues heritage.
+",Which musical heritage of Pittsburgh is noted to have information available in the section on related blogs?
+0.0,0.0,False,"Marketing Assistance
+","Emphasizing Pittsburgh’s affordability, accessibility, and unique venues.
+",What type of promoting strategy is suggested for event planners looking to host meetings in Pittsburgh?
+0.8,0.6666666666666666,False,"The world's largest bicycle museum
+","The world's largest bicycle museum and shop.
+",What is Bicycle Heaven recognized as worldwide?
+0.0,0.0,False,"Rose Way
+","The Allegheny Overlook Park.
+",Where can one find free entertainment in downtown Pittsburgh on the first or third Monday from February to October?
+0.0,0.0,False,"[iv]
+","Free walking tours.
+",What type of tours does the Pittsburgh History & Landmarks Foundation offer for free?
+0.3529411764705882,0.5,False,"a short presentation, tour of the building and an opportunity to look through the telescope
+","A history of the observatory and telescope viewing.
+","When visiting The Allegheny Observatory, what is included in the free evening tour?"
+0.0,0.0,False,"Carnegie Museum of Art
+","The Frick Pittsburgh.
+",Which Pittsburgh museum focuses on the gilded age and offers free admissions?
+0.0,0.0,False,"educational
+","The Nationality Rooms.
+",What is housed in the University of Pittsburgh's Cathedral of Learning building?
+0.0,0.0,False,"taxidermy
+","The largest collection of religious relics outside the Vatican.
+",What unique collection can be seen at St. Anthony's Chapel?
+0.0,0.0,False,"Pittsburgh Japanese Film Festival
+","Cinema in the Park.
+",Which Pittsburgh event offers a chance to see local parks transformed into movie theaters?
+0.0,0.0,False,"Liberty Magic Theatre
+","Katz Plaza.
+",Where in Pittsburgh can you enjoy free professional jazz performances weekly?
+0.0,0.0,False,"Grace
+","Negro League baseball players.
+",Who does Josh Gibson Heritage Park honor besides Josh Gibson?
+0.0,0.0,False,"lighthouse
+","Contemporary art installations.
+",What architectural feature is Troy Hill Art Houses known for incorporating into a house?
+0.0,0.0,False,"SPACE
+","Wood Street Galleries.
+",Which gallery on Wood Street hosts exhibitions by multi-disciplinary media artists from around the globe?
+0.6666666666666666,0.5,False,"Ride
+","Ride the subway.
+",What are visitors allowed to do for free within the Golden Triangle using Pittsburgh's subway system?
+0.09523809523809523,0.14285714285714285,False,"It tells the story of western Pennsylvania's role during the French & Indian War and the American Revolution.
+","It is the oldest surviving structure in Pittsburgh.
+",What is the architectural significance of Pittsburgh's Fort Pitt Block House?
+0.0,0.0,False,"2024 Pittsburgh Taco Festival
+","Sundays.
+",On what day is street parking free in downtown Pittsburgh?
+0.0,0.0,False,"RUSTICANA/ PAGLIACCI ARMIDA
+","Seneca language.
+",What language do the Seneca people speak?
+0.0,0.0,False,"gua de residentes
+","Mayor David L. Lawrence and Richard King Mellon.
+",What were the names of the two founders of the city of Pittsburgh’s Renaissance projects mentioned in the text?
+0.28571428571428575,0.3333333333333333,False,"France and Great Britain
+","The British and the French.
+",What two entities clashed for control of Pittsburgh area in the 1750s?
+1.0,1.0,True,"University of Pittsburgh
+","The University of Pittsburgh.
+",What is the Pittsburgh Academy known as today?
+0.6666666666666666,0.5,False,"steel
+","The steel industry.
+",Which Pittsburgh industry benefited from the American Civil War?
+0.0,0.0,False,"1764
+","1777.
+",In what year did the Fort Pitt Blockhouse become a United States fort?
+0.0,0.0,False,"The Allegheny and Monongahela Rivers meet to form the Ohio
+","The Fort Pitt Block House.
+","What is the name of the oldest structure in Pittsburgh, dating back to 1764?"
+0.0,0.0,False,"earthquake
+","The St. Patrick's Day Flood.
+",What natural disaster hit Pittsburgh in March 1936?
+0.25,0.25,False,"Mayor Thomas W. Patrick
+","Mayor David L. Lawrence.
+",Who was the key political figure responsible for enforcing the Smoke Control Ordinance in Pittsburgh?
+0.0,0.0,False,"The information is not relevant
+","1875.
+",When did Pittsburgh first begin producing steel?
+0.0,0.0,False,"the steel industry
+","Its bridges.
+",What major structural feature is Pittsburgh known for?
+1.0,1.0,True,"Carnegie Mellon University
+","Carnegie Mellon University.
+",Which university is mentioned as evolving in response to the needs of heavy industries in the mid-20th century Pittsburgh?
+0.0,0.0,False,"The Great Depression
+","The Pittsburgh Renaissance urban renewal project.
+",What key event in 1946 further changed the industrial base of Pittsburgh?
+0.0,0.0,False,"NOVEMBER 9-17
+","1791-1794.
+",When did the Whiskey Rebellion take place?
+0.0,0.0,False,"The Pittsburgh Agreement
+","The Great Railroad Strike of 1877.
+",What major social reform event is associated with Pittsburgh in 1877?
+0.36363636363636365,0.2857142857142857,False,"Britain, Ireland, and Germany
+","Immigrants from Italy, Eastern Europe, and Ireland.
+",Who were some of the new immigrants that arrived in Pittsburgh between 1870 and 1920?
+0.0,0.0,False,"confrontation in the steel industry
+","The Homestead Strike.
+",What catastrophic workplace event occurred in Pittsburgh in 1892 involving the Carnegie Steel Company?
+0.0,0.0,False,"Acrisure Stadium
+","Forbes Field
+",Which notable historical baseball stadium was mentioned as being part of the cultural scene of Pittsburgh?
+1.0,1.0,True,"Speakeasy
+","Speakeasy
+",What term synonymous with illegal drinking establishments during Prohibition was purportedly coined in nearby McKeesport?
+0.6666666666666666,0.6666666666666666,False,"19,000 years ago
+","16,000 years ago
+",What is the estimated time period Native Americans started inhabiting the region around Pittsburgh according to archaeological evidence?
+0.0,0.0,False,"unanswerable
+","Assistive technology lab
+",What type of facility is the Inglis Innovation Center planning to include in its Bellevue location?
+0.0,0.0,False,"b) creating a collaborative environment open to the free exchange of ideas
+","Supporting individuals with disabilities in starting their own businesses
+",What is the focus of the entrepreneurship program at the Inglis Innovation Center?
+0.4,0.3333333333333333,False,"Pittsburgh Passion
+","Pittsburgh Hotspurs Women
+",Which new sports team is mentioned as completing the pipeline from the Riverhounds Academy to professional women's soccer?
+0.0,0.0,False,"The Lega Toscana in the 21st Century: A Digital Humanities Case Study
+","QED Cooks collection
+",What inspired the recreation of the Zucchini Casserole recipe?
+0.0,0.0,False,"UPMC Sports Medicine
+","Light of Life Rescue Mission
+",Which organization's groundbreaking is significant for offering a suite of services including healthcare?
+0.3333333333333333,0.3333333333333333,False,"Fall Dance Concert
+","Contemporary dance performances
+",What kind of shows combined dance and theater at the Peirce Studio event?
+0.0,0.0,False,"the events inspired by the Mixtape events
+","Music compilation culture of the 1980s and 1990s
+",What did Amanda Waltz report about Pittsburgh's Mixtape events inspired by?
+0.0,0.0,False,"Comedy
+","Reality dating shows
+",Which TV genre does Jessie Sage discuss in relation to relationship insights?
+0.0,0.0,False,"Learn about the free recycling Blue Bin coming to your home
+","Various local events and activities, including concerts and art exhibits
+",What are Pittsburgh City Paper's staff suggesting to do between October 16-23?
+0.0,0.0,False,"Human Action Pittsburgh
+","Anti-Defamation League (ADL)
+",What organization is monitoring neo-Nazi activities in Pittsburgh?
+0.13333333333333333,0.25,False,"a flexible, easy-to-change structure, and for improved access and response for citizens
+","Local governance and autonomy
+",What does the Wilkinsburg’s Home Rule charter aim to increase for the borough’s residents?
+0.05128205128205128,0.16666666666666666,False,"The City Treasurer is the designated Treasurer for the Pittsburgh School District, is responsible for tax collections related to the District, and is the responsible agent for the collection and distribution of the Carnegie Library portion of real estate taxes.
+","Oversees state funds and manages investments
+",What role does the Pennsylvania treasurer play in state government?
+0.0,0.0,False,"Campaign finance
+","Opioid crisis response
+",What was one focus of Eugene DePasquale's campaign for Attorney General?
+0.0,0.0,False,"Nick Swardson: Toilet Head
+","""The Addams Family"" musical
+",Which show is scheduled for multiple performances at The Lamp Theatre?
+0.0,0.0,False,"The event ""(Softball) Emory vs. Carnegie Mellon""
+","Light Up Night in Pittsburgh
+",What significant event is taking place on October 25?
+0.0,0.0,False,"2024
+","1998
+",What year did Stacy Rounds recreate the Zucchini Casserole recipe from the QED Cooks collection?
+1.0,1.0,True,"Pittsburgh
+","Pittsburgh
+",What city does PA district 12 encompass?
+0.0,0.0,False,"Pittsburgh
+","Parts of Allegheny County and Beaver County
+",What areas does PA district 17 cover?
+0.0,0.0,False,"professional team
+","Home to the Pittsburgh Steelers, one of the most successful NFL teams
+",What is the role of Pittsburgh in the history of the National Football League?
+1.0,1.0,True,"Best Sports City
+","Best Sports City
+",What title related to sports cities did Pittsburgh win in 2009 according to Sporting News?
+0.6666666666666666,1.0,False,"University of Pittsburgh School of Medicine
+","University of Pittsburgh
+",Which university in Pittsburgh is noted for its medical and health-related sciences?
+0.0,0.0,False,"no
+","Grammy Award
+",What significant award has the Pittsburgh Symphony Orchestra received?
+0.2,0.16666666666666666,False,"The Johns Hopkins Medical Institute
+","UPMC (University of Pittsburgh Medical Center)
+",Which Pittsburgh-based medical institute has been a pioneer in organ transplants?
+0.0,0.0,False,"World Economic Forum
+","G20 Summit
+",What global event did Pittsburgh host in September 2009?
+0.33333333333333337,0.3076923076923077,False,"Pittsburgh's mills contributed 95 million tons of steel to the war effort
+","Known as the ""Arsenal of Democracy"" due to its steel production for war efforts
+",What is the historical significance of the Pittsburgh area in terms of industrial manufacturing during World War II?
+0.0,0.0,False,"26th-largest
+","One of the largest transit systems in the U.S.
+",How does Pittsburgh's public transportation rank in size within the United States?
+0.3,0.3,False,"the area shifted its economic base to education, tourism, and services
+","Shift from steel manufacturing to technology, healthcare, and education sectors
+",What is one major economic transition that Pittsburgh has undergone from the late 20th century to the 21st century?
+0.0,0.0,False,"aerospace
+","Advanced manufacturing and engineering
+","In what sector is Pittsburgh considered to continue having a global impact, as evidenced by contributions to projects like the Boeing 787 Dreamliner?"
+0.0,0.0,False,"The Carnegie Medal of Arts
+","""Most Livable City"" for its innovative design and sustainability efforts
+",What accolade was Pittsburgh given by Metropolis magazine in 2015?
+1.0,1.0,True,"Andy Warhol Museum
+","The Andy Warhol Museum
+",Which Pittsburgh museum is dedicated to an iconic artist and features extensive collections of his work?
+0.0,0.0,False,"PPG Paints Arena
+","Pittsburgh Riverhounds SC, Highmark Stadium
+",Which Pittsburgh sports team plays professional soccer and what is their home stadium?
+1.0,1.0,True,"""the Steel City""
+","Steel City
+",What nickname has been attributed to Pittsburgh reflecting its industrial past?
+0.0,0.0,False,"Ohio
+","Monongahela River
+",Which river in Pittsburgh is known for connecting to the Great Allegheny Passage trail system?
+0.0,0.0,False,"2015
+","1990
+",In what year did the University of Pittsburgh host the first public cross-species marrow transplant?
+0.0,0.0,False,"Jaödeog’
+","Fort Pitt
+",What is the name of the historic area in Pittsburgh that was key during the French and Indian War?
+0.9090909090909091,0.8333333333333334,False,"University of Pittsburgh Medical Center
+","UPMC (University of Pittsburgh Medical Center)
+",What prestigious health-related institution in Pittsburgh is known for groundbreaking medical research and care?
+0.4,0.3333333333333333,False,"Pittsburgh Fringe
+","Pittsburgh Pierogi Festival
+",Which annual Pittsburgh cultural event celebrates the city's ethnic diversity through its culinary tradition?
+0.0,0.0,False,"JazzLive
+","MCG Jazz Series
+",What is the name of the jazz series held by Manchester Craftsmen's Guild in Pittsburgh?
+0.5,0.5,False,"Cultural District
+","Strip District
+","In which neighborhood of Pittsburgh is CJs, a venue noted for jazz music, located?"
+0.0,0.0,False,"December
+","June
+",During which month is the annual Pittsburgh JazzLive International Festival held?
+0.6666666666666666,0.5,False,"Downtown
+","Downtown Pittsburgh
+",In what part of Pittsburgh does the Pittsburgh JazzLive International Festival take place?
+0.0,0.0,False,"banjo
+","Bass
+",Which type of musical instrument did Ray Brown play in the Pittsburgh jazz scene?
+0.0,0.0,False,"Billy Strayhorn
+","Earl Hines
+","Which famous jazz keyboard player associated with Pittsburgh was known as ""Fatha""?"
+0.0,0.0,False,"The House of Soul Band
+","Roger Humphries & RH Factor
+",What is the name of the jazz group led by Roger Humphries?
+0.0,0.0,False,"Mac Miller
+","Roger Humphries
+",Which Pittsburgh jazz musician is renowned for his contributions to both the drums and vocals?
+0.5,0.5,False,"Pittsburgh Black Music Festival
+","Pittsburgh JazzLive International Festival
+",Can you name a jazz festival that is specifically mentioned as occurring in Pittsburgh?
+0.0,0.0,False,"WOODWINDS
+","Pittsburgh Jazz Legends
+",What jazz ensemble includes George Benson and Joe Negri as guitar players?
+0.0,0.0,False,"Stage AE
+","Dr. Nelson Harrison
+",Who is the artist responsible for writing the content about the current jazz performers in Pittsburgh?
+0.6666666666666666,0.6666666666666666,False,"The Heinz History Museum
+","Heinz History Center
+",Which museum in Pittsburgh features exhibits related to the Underground Railroad and Mister Rogers?
+0.0,0.0,False,"Buhl Planetarium
+","Carnegie Science Center
+",Which museum in Pittsburgh allows visitors to experience interactive simulations of lunar missions?
+0.22222222222222224,0.2,False,"500,000 artworks and objects
+","Pop art and avant-garde works
+",What type of artworks can one explore at The Andy Warhol Museum in Pittsburgh?
+0.0,0.0,False,"a guided tour
+","October 27, 2024.
+",What is one of the activities that can be enjoyed at the Mattress Factory museum?
+0.0,0.0,False,"The Mattress Factory
+","September 8, 2024, against the Atlanta Falcons.
+",Which museum in Pittsburgh specializes in materials related to bicycles and is noted as the world's largest bike museum and store?
+0.0,0.0,False,"the French & Indian War
+","CBS.
+",What specific historic event does the Fort Pitt Museum in Pittsburgh focus on illustrating?
+0.0,0.0,False,"unanswerable
+","The Pittsburgh Steelers won 24-17 against the Indianapolis Colts.
+","At the Children's Museum of Pittsburgh, what sort of play area is mentioned as encouraging creativity among visitors?"
+0.0,0.0,False,"Carnegie Museum of Natural History
+","Acrisure Stadium enforces a clear bag policy.
+",Which museum in Pittsburgh is recognized for displaying one-of-a-kind specimens and gems relevant to dinosaur aficionados and geology buffs?
+0.0,0.0,False,"Steelers history
+","The Cincinnati Bengals.
+",What is celebrated through the exhibits at the Steelers Hall of Honor Museum?
+0.0,0.0,False,"Carnegie Museum of Art
+","ESPN/ABC.
+",In which Pittsburgh museum can you find a variety of Smithsonian objects?
+0.0,0.0,False,"visitors-guide
+","Week 6, October 13, 2024.
+",What type of guide is available for potential visitors to help them plan a trip to Fallingwater?
+0.0,0.0,False,"Objects of Our Affection: ‘Golden Orioles’ preserved series of buildings and gardens
+","Art Rooney II.
+",What attracts visitors to the Daniel G. and Carole L. Kamin Science Center within Pittsburgh?
+0.0,0.0,False,"ice cream at the play soda fountain
+","Mike Tomlin.
+",What can younger audiences expect to find at Pittsburgh's Children's Museum besides the waterplay area?
+0.0,0.0,False,"One of its earliest industries was boat building for settlers of the Ohio Country
+","Omar Khan.
+",What early role did Pittsburgh play in the history of the United States as a frontier village?
+0.0,0.0,False,"coal and gas
+","He is the Defensive Coordinator.
+",What natural resources contributed to Pittsburgh becoming an industrial center?
+0.0,0.0,False,"France and Great Britain fought for control in the 1750s
+","Garrett Giemont.
+",What global conflict had Pittsburgh participating from its earliest days in history?
+0.0,0.0,False,"Whiskey Rebellion
+","Sharon Levosky.
+",Which rebellion is associated with Pittsburgh's history in 1791?
+0.0,0.0,False,"Bessemer
+","Blayre Holmes Davis.
+",Who introduced the Bessemer steel-making process to Pittsburgh?
+0.0,0.0,False,"steel
+","115 Federal Street, Pittsburgh, PA 15212.
+",What was the primary industry for which Henry Clay Frick became known in Pittsburgh?
+0.0,0.0,False,"1875
+","(412) 321-BUCS (2827).
+",When did Andrew Carnegie begin steel production?
+0.0,0.0,False,"United States Steel
+","2001.
+",Which major steel company was formed in 1901 involving Carnegie and Frick?
+0.0,0.0,False,"Monteverdi Society Forever Campaign
+","Interactive seating maps are available.
+",What significant labor event occurred at Homestead Steel that impacted labor practices and laws?
+0.0,0.0,False,"technical institute
+","The Allegheny River.
+",What public institutions did Andrew Carnegie donate to in Pittsburgh?
+0.0,0.0,False,"The Strip District
+","9:00 AM to 5:30 PM.
+",What Pittsburgh neighborhood reflects the city's immigrant history through its ethnic character?
+0.0,0.0,False,"healthcare, education, and technology
+","National League Central Division.
+",What industries has Pittsburgh reinvented itself as a hub for after the decline of steel production?
+0.0,0.0,False,"Steelers of the National Football League, the Penguins of the National Hockey League, and the Pirates of Major League Baseball
+","Derek Shelton.
+",Name the sports teams in Pittsburgh known for wearing black and gold.
+0.0,0.0,False,"Nationality Rooms at University of Pittsburgh & Heinz Memorial Chapel
+","Don Kelly.
+",Where can visitors go for an immersive historical experience of Pittsburgh?
+0.0,0.0,False,"the Andy Warhol Museum
+","Oscar Marin.
+",Which museum is noted as a must-see destination in Pittsburgh?
+0.0,0.0,False,"education
+","Assistant Hitting Coach.
+",What is the primary focus of the Latin American Cultural Center that opened in Oakland as reported?
+0.0,0.0,False,"the Delaware
+","First Base Coach.
+","Which river provides the setting for the event described in ""2024 Fall Sailing at the Point""?"
+0.0,0.0,False,"no longer in print
+","Ben Cherington.
+","What economic trend was affecting local newspapers as discussed in ""Noteworthy Summer 2024""?"
+0.0,0.0,False,"Andrew Carnegie, Henry Clay Frick, Andrew W. Mellon, and Charles M. Schwab
+","Mike Rabelo.
+",Who were the founders of the first commercially successful plate glass factory in the US?
+0.3333333333333333,0.3333333333333333,False,"the National WWII Museum
+","The Andy Warhol Museum.
+","What conflict had ended by the 1996 Peace Accords depicted in Paula Nicho Cúmez's painting discussed in the ""2023 Summer Latin American Cultural Center Opens in Oakland""?"
+0.0,0.0,False,".2
+","230 original fossils.
+","What percentage of the population increase in Allegheny county from 2010 to 2020 was due to immigrants according to ""Pittsburgh's Immigrant Puzzle""?"
+0.0,0.0,False,"steel and electronics
+","Dr. Matthew Lamanna.
+","According to ""Pittsburgh's 2023 Economic Forecast,"" in how many major industrial sectors had Pittsburgh's labor market not yet recovered to pre-pandemic levels?"
+0.0,0.0,False,"a family member died
+","Hillman Hall of Minerals and Gems.
+","What motivated Jordan Fischbach to move his family to southwestern Pennsylvania as mentioned in ""Shelter from the Storm""?"
+0.0,0.0,False,"blight
+","January 5, 2025.
+","According to ""2022 Fall Unlike Pittsburgh, Detroit is Waging an All-Out War Against Blight - AND WINNING"", what major economic and social challenge was Detroit facing that related to property?"
+0.0,0.0,False,"University of Pittsburgh
+","Hands-on science exploration for families.
+","What partner worked with the Community College of Allegheny County on a robotics training course as described in ""The Workforce Training Swamp""?"
+0.0,0.0,False,"the Frick Transportation Project
+","After-hours science activities and cocktails.
+","What transportation project from the mid-1960s aimed to diversify southwestern Pennsylvania's economy is discussed in ""PLACE YOUR BETS""?"
+0.0,0.0,False,"Joe Greene
+","""Dinosaurs in Their Time.""
+","Who was highlighted as a lifelong member of the Steelers in ""On a Pedestal, Spring 2022""?"
+0.0,0.0,False,"Pittsburgh Insider's Guide
+","Until January 5, 2025.
+","What is the official tourism site for Pittsburgh, PA titled?"
+0.0,0.0,False,"Steelers Tailgate
+","Dr. Matthew Lamanna.
+",What event signifies the start of NFL season for the Steelers?
+0.0,0.0,False,"2026
+","Super Science Saturdays.
+",In what year will Pittsburgh host the NFL Draft?
+0.0,0.0,False,"Acrisure Stadium
+","21+ Nights.
+",What is the name of the stadium where the Steelers play?
+0.0,0.0,False,"The Great One
+","Hillman Hall of Minerals and Gems.
+",Name a James Beard Award-nominated restaurant in Pittsburgh.
+0.0,0.0,False,"Helltown Brewing’s Mischievous Brown
+","Ancient Egyptian artifacts.
+","What unique type of brewery does Pittsburgh have, known as Pennsylvania's first?"
+0.0,0.0,False,"412-255-2641 ofem@pittsburghpa.gov
+","The Allegheny, Monongahela, and Ohio Rivers.
+",How can visitors contact the Visit Pittsburgh office by phone?
+0.0,0.0,False,"Mario Lemieux
+","1816.
+",Who is the owner of the Pittsburgh Penguins?
+0.0,0.0,False,"1896
+","General John Forbes.
+",What year was the Pittsburgh Penguins team founded?
+0.0,0.0,False,"PPG Paints Arena
+","""The Smoky City.""
+",Which arena do the Pittsburgh Penguins play their home games at?
+0.0,0.0,False,"5
+","Homestead, Pennsylvania.
+",How many Stanley Cup championships have the Pittsburgh Penguins won as of 2024?
+0.0,0.0,False,"Dubas
+","Robotics, healthcare, and education.
+",Who is the general manager of the Pittsburgh Penguins as of 2024?
+0.0,0.0,False,"Dubas
+","University of Pittsburgh.
+",Who is the captain of the Pittsburgh Penguins as of 2024?
+0.0,0.0,False,"three
+","Pittsburgh.
+",How many division championships have the Pittsburgh Penguins won as of 2024?
+0.0,0.0,False,"1933
+","The Susquehanna River.
+",What year was the Pittsburgh Steelers football team established?
+0.0,0.0,False,"The Steelers
+","1758.
+",What is the nickname for the defensive line of the Pittsburgh Steelers from 1971 to 1981?
+0.0,0.0,False,"Mike Tomlin
+","General John Forbes.
+","Who was the first African-American head coach of the Pittsburgh Steelers, starting in 2007?"
+0.0,0.0,False,"Pittsburgh Steeling
+","""The Steel City.""
+",What was the original name of the Pittsburgh Steelers from 1933 to 1939?
+0.0,0.0,False,"1974
+","1,370 feet.
+",In what year did the Pittsburgh Steelers win their first Super Bowl?
+0.0,0.0,False,"Steely McBeam
+","U.S. News & World Report's ""Best Hospitals"" ranking.
+",Which mascot was introduced by the Steelers in their 2007 season?
+0.0,0.0,False,"Black & Gold
+","1898.
+",What are the official team colors of the Pittsburgh Steelers?
+0.0,0.0,False,"Urban Impact Youth Football Clinic
+","Henry Phipps.
+",What is the title of the program dedicated to connecting youth to football activities?
+0.0,0.0,False,"Huddle Up during the offseason and answer new Steelers trivia questions every Tuesday, Thursday and Saturday
+","It is the only congressionally-designated National Aviary.
+",Which weekly activities are featured exclusively on the Steelers Mobile App through YinzChat?
+0.0,0.0,False,"The Steelers Mobile App
+","Free access to books, resources, and community programs.
+",How can fans feature their game day rituals or traditions on the Steelers' website?
+0.0,0.0,False,"a community hub
+","The Andy Warhol Museum, dedicated to Andy Warhol.
+",What can you book Steely McBeam for?
+0.0,0.0,False,"a bar close to you
+","Heinz Hall.
+",Where can one find Steelers Bars as part of a promotion?
+0.0,0.0,False,"YinzChat
+","Early 2024.
+",What hashtag can fans use to get featured by showing what they are wearing from the Steelers Pro Shop?
+0.0,0.0,False,"a fun night of football drills with some of their favorite players
+","1898.
+",What activities are included at the Steelers Spooktacular?
+0.0,0.0,False,"The Steelers failed on a two-point conversion, but took a 12-7 lead to the half.
+","Henry Phipps.
+","What is the result of the Pittsburgh Steelers' game against the Atlanta Falcons on September 8, 2024?"
+0.0,0.0,False,"Denver
+","It is the only congressionally-designated National Aviary.
+","Where did the Steelers play against the Denver Broncos on September 15, 2024?"
+0.0,0.0,False,"Oct. 5, 2024
+","19 branches.
+",On what date did the Pittsburgh Steelers have a game scheduled against the New York Jets in 2024?
+0.0,0.0,False,"NFL Network
+","Four museums.
+",Which television network broadcasted the Steelers' game against the New York Jets?
+0.0,0.0,False,"Week 16 fan appreciation game
+","Heinz Hall.
+",What is the Steelers' final regular season home game for 2024 against the Cincinnati Bengals scheduled as?
+0.0,0.0,False,"Dallas Cowboys
+","Early 2024.
+","Who are the Steelers playing on December 25, 2024?"
+0.0,0.0,False,"Acrisure Stadium
+","July 19-21, 2024.
+",Where is the Pittsburgh Steelers home stadium as of 2024?
+0.25,0.16666666666666666,False,"Pittsburgh Pirates
+","Downtown Pittsburgh, at the Rachel Carson Bridge.
+","What is the name of the Major League Baseball team based in Pittsburgh, Pennsylvania?"
+0.0,0.0,False,"1881
+","Four consecutive years.
+",In which year was the Pittsburgh Pirates baseball team established?
+0.0,0.0,False,"PNC Park
+","The Olympickle Games.
+",What is the name of the stadium where the Pittsburgh Pirates have played their home games since 2001?
+0.0,0.0,False,"Five
+","Pickle juice drinking contests and pickle-eating challenges.
+",How many World Series championships have the Pittsburgh Pirates won?
+0.0,0.0,False,"Jim Leyland
+","Pickle-flavored ice cream, pickle beer, and pickle cocktails.
+",Who is the manager of the Pittsburgh Pirates as of the 2024 season?
+0.0,0.0,False,"Steel City Yellow
+","925 Liberty Avenue, Pittsburgh, PA 15222.
+",What are the official colors of the Pittsburgh Pirates?
+0.0,0.0,False,"Buccos
+","Pittsburgh's Little Italy Days.
+","What nickname is derived from ""buccaneer"" and commonly used for the Pittsburgh Pirates?"
+0.0,0.0,False,"MLB Ballpark app
+","August 15-18, 2024.
+",What ticket purchasing platform is mentioned for the Pittsburgh Pirates?
+0.0,0.0,False,"PNC Park
+","Bloomfield neighborhood, Liberty Avenue.
+",What is the name of the park where the Pittsburgh Pirates play?
+0.0,0.0,False,"MLB Ballpark
+","No, admission is free.
+",Which app is mentioned for MLB ballpark experiences?
+0.0,0.0,False,"Group tickets
+","Free parking is available at local businesses and designated lots.
+",What type of tickets are available for Pirates games?
+0.0,0.0,False,"Helpful
+","Live music, Italian food vendors, and family-friendly activities.
+",What are the Pirates' charitable initiatives referred to as?
+0.0,0.0,False,"Bucaroos Kids Club
+","Shuttle services for senior citizens and those with disabilities.
+",What is the name of the children's club associated with the Pirates?
+0.0,0.0,False,"PNC Park
+","May 11, 2024.
+",What is the name of the stadium where the Pittsburgh Pirates play their home games since 2001?
+0.0,0.0,False,"1881
+","12:00 PM to 7:00 PM.
+",In what year was the Pittsburgh Pirates baseball team established?
+0.0,0.0,False,"Central
+","Early admission and exclusive seating.
+",Which Major League Baseball division do the Pittsburgh Pirates play in?
+0.0,0.0,False,"Steel City Yellow
+","Local food banks and community charities.
+",What are the official colors of the Pittsburgh Pirates?
+0.0,0.0,False,"Brendan Donovan
+","Strip District, Pittsburgh, PA.
+",Who hit the game-winning home run in the 1960 World Series for the Pittsburgh Pirates?
+0.0,0.0,False,"five
+","info@pghtacofest.com.
+",How many World Series championships have the Pittsburgh Pirates won up to 2023?
+0.0,0.0,False,"Barry Bonds
+","Premier Web Solutions.
+",Who is the Pirates player that won the World Series MVP in 1971?
+0.0,0.0,False,"Acrisure Stadium
+","The Great American Banana Split Celebration.
+",What is the name of the stadium where the Pittsburgh Steelers play?
+0.0,0.0,False,"The Steelers have played in eight Super Bowls, winning six of them, including four in six years
+","August 23-25, 2025.
+",How many times have the Pittsburgh Steelers won the Super Bowl?
+0.0,0.0,False,"The Steelers logo
+","Latrobe, Pennsylvania.
+",What is a symbol commonly associated with the Pittsburgh Steelers?
+0.0,0.0,False,"Andy Warhol
+","The Banana Split 5K race.
+",Who created the Terrible Towel?
+0.0,0.0,False,"2024
+","David Strickler.
+",When does Steelers training camp usually start?
+0.0,0.0,False,"Account Manager
+","The Banana Split.
+",Where can Steelers fans trade their game tickets?
+0.0,0.0,False,"The Steelers Pro Shop
+","Stage AE, Pittsburgh, PA.
+",Which website provides official merchandises like jerseys and hats for the Steelers?
+0.0,0.0,False,"https://www.nhl.com/penguins/fans/contact-us
+","General admission is $15, and VIP tickets are available for $50.
+",What is the official website of the Pittsburgh Penguins?
+0.0,0.0,False,"nhl.com
+","Elegant casual attire.
+",What social media platforms are mentioned for the Pittsburgh Penguins?
+0.0,0.0,False,"Get Involved Join Newsletter
+","11:00 AM to 9:00 PM.
+",What type of content sections are mentioned in the navigation menu of the Pittsburgh Penguins website?
+0.0,0.0,False,"NHL
+","Black-owned restaurants and food vendors.
+",Which league do the Pittsburgh Penguins belong to?
+0.0,0.0,False,"Andy Warhola
+","Soup tasting from local restaurants.
+",What is the word mark image related to that is mentioned as a registered trademark?
+0.0,0.0,False,"things-to-do
+","February 16, 2024.
+",What type of content does pittsburghpenguins.com include aside from the team roster?
+0.0,0.0,False,"Acrisure Stadium
+","The Strip District World Food Festival.
+",Where is the Hall of Honor Induction Ceremony held?
+0.0,0.0,False,"not enough information
+","April 28, 2024.
+",Who are the presenting partners for the Hall of Honor Dinner Ceremony?
+0.0,0.0,False,"not enough information
+","The Pittsburgh Wine & Food Festival.
+",What is the purpose of the ticket proceeds from the Hall of Honor Dinner?
+0.0,0.0,False,"Selina Lee, College of Fine Arts 20202022–2023 Haider Nazir, Dietrich College 20202022–2023 Nicola Ritsch, College of Engineering 20242022–2023 Ella Rosenblum, College of Fine Arts 20212021–2023 Jenna Stanislaw, Mellon College of Science 20222022–2023 Sara Adkins, Mellon College of Science 20212021–2022 Kyra Balenzano, Dietrich College 20212021–2022 Darianealy Butler, Heinz College 20212021–2022
+","Allegheny Commons Park, June 30, 2024.
+",Who are some of the members of the Hall of Honor Class of 2024?
+0.0,0.0,False,"November 20
+","By signing up to offer special menus during the event.
+",When is the Hall of Honor Induction Ceremony scheduled for 2024?
+0.0,0.0,False,"Saturday, Oct. 5, 2024
+","Increased brand visibility and local media coverage.
+",What is the date and opponent for the Pittsburgh Steelers' first regular season game in 2024?
+0.0,0.0,False,"NFL Network
+","Arrive on time and tip generously.
+","On what network is the Pittsburgh Steelers vs. New York Jets game on October 20, 2024, being broadcast?"
